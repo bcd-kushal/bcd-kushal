@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    {% load static %}
+    <meta charset="utf-8" />
+    <title>Contact Me</title>
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/contactMe.css' %}"/>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/index.css' %}"/>
+</head>
+
+<body class="contact">
+    
+    <!-- HEADER SECTION ===================================== -->
+    {% include 'src/utils/header.html' %}
+    <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+
+
+
+
+    <!-- CONTACT US FORM -->
+    <section>
+        <div class="row-container narrow">
+            <div class="row">
+                <div class="column-container">
+                    <div class="column centered">
+                        <h1>Get in touch with me</h1>
+                        <p class="lead" style="text-align: center;">Drop a message of query/colab/love and i will respond within 4-5 days!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row-container narrow contact-form">
+            <div id="contact-cards" class="row">
+                <div class="column-container"> 
+                    <div class="column blurb card accent-purple centered">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="22" width="22" style="fill: #8f42ec;scale:1.6;margin-top:20px;" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
+                        <h2  style="margin-bottom: 20px;" class="card-title">
+                            Help me with your details</h2>
+                        <!-- <p style="margin-bottom: 40px;">A response mail will go to your enetered email</p> -->
+                        <form name="et-contactform" id="et_manage_form"
+                            action="" method="post">
+                            {% csrf_token %}
+                            <div class="et_manage_input">
+                                <input type="text" id="contact-name" placeholder="Name" autocomplete="off" name="name"
+                                    value size="20" tabindex="10" required>
+                                <label>Name</label>
+                            </div>
+                            <div class="et_manage_input">
+                                <input type="email" id="contact-email" placeholder="Email Address" autocomplete="off"
+                                    name="email" value size="20" tabindex="20" required>
+                                <label>Email Address</label>
+                            </div>
+                            <div class="et_manage_input et_filled" style="margin-top: 15px;">
+                                <select tabindex="30" id="contact-department" name="tag" required>
+                                    <option value="work">Work</option>
+                                    <option value="meet">Meet</option>
+                                    <option value="other">Other</option>
+                                </select>
+                                <label>Reason for contacting</label>
+                            </div>
+                            <div class="et_manage_input et_manage_textarea">
+                                <textarea type="text" rows="4" id="contact-message" placeholder="Your Message"
+                                    autocomplete="off" name="msg" tabindex="40" required style="resize: none;"></textarea>
+                                <label>Your Message</label>
+                            </div>
+                            <input class="button primary-button fullwidth-button" type="submit" name="submit"
+                                id="contact-submit" value="Submit Message" tabindex="100">
+                        </form>
+                        <br>
+                        <p>Data stored as per  <a href="/policy/terms/">My Terms</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- FAQ SECTION -->
+    <section>
+        <div class="row-container narrow">
+            <div class="row">
+                <div class="column-container">
+                    <div class="column centered">
+                        <h2>Questions I get generally asked</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row accent-purple">
+                <div class="column-container">
+                    <div class="column ">
+                        <ul class="accordion">
+                            <li style="border-bottom: .5px solid #9e9b9b;padding-bottom: 18px;">
+                                <a class="active">
+                                    <h4 style="margin: 29px 0 12px;">What's your birth date/birthday?</h4>
+                                </a>
+                                <p>
+                                    My birthday falls on Jan 1 ( I'm a new year child!! ), and birth date is 01-Jan-2002. 
+                                </p>
+                            </li>
+                            <li style="border-bottom: .5px solid #9e9b9b;padding-bottom: 18px;">
+                                <a>
+                                    <h4 style="margin: 29px 0 12px;">Where do you stay right now? What's your home residence?</h4>
+                                </a>
+                                <p>I'm currently located in Varanasi, UP. My home residence is Kolkata, WB.</p>
+                                
+                            </li>
+                            <li style="border-bottom: .5px solid #9e9b9b;padding-bottom: 18px;">
+                                <a>
+                                    <h4 style="margin: 29px 0 12px;">What's your highest qualification?</h4>
+                                </a>
+                                <p>B.Sc. in Computer Science from <a href="https://sxccal.edu/">St. Xavier's College, Kolkata</a> ( 2020 - 2023 ).</p>
+                                
+                            </li>
+                            <li style="border-bottom: .5px solid #9e9b9b;padding-bottom: 18px;">
+                                <a>
+                                    <h4 style="margin: 29px 0 12px;">As a software developer, what softwares you DO NOT develop?</h4>
+                                </a>
+                                <p>Games using Unity Engine. Also custom kernels and bug bounties are out of my expertise.</p>
+                                
+                            </li>
+                            <li style="border-bottom: .5px solid #9e9b9b;padding-bottom: 18px;">
+                                <a>
+                                    <h4 style="margin: 29px 0 12px;">As an anime artist, what commision do you accept?</h4>
+                                </a>
+                                <p>I accept each type of anime commision ( NSFW included ). Check out more <a href="/">here</a>.</p>
+                                
+                            </li>
+                            <li style="border-bottom: .5px solid #9e9b9b;padding-bottom: 18px;">
+                                <a>
+                                    <h4 style="margin: 29px 0 12px;">What are your hobbies?</h4>
+                                </a>
+                                <p>Graphic, artwork, lineart, web UI design, cricket and dark chocolates.
+                                </p>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!-- FOOTER SECTION ===================================== -->
+    {% include 'src/utils/footer.html' %}
+    <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+
+
+
+    
+    <script>
+        window.intercomSettings = {
+            app_id: 'hrpt54hy',
+            custom_launcher_selector: '.launch_intercom',
+            widget: {
+                activator: '#IntercomDefaultWidget'
+            }
+        };
+        (function () { var w = window; var ic = w.Intercom; if (typeof ic === "function") { ic('reattach_activator'); ic('update', intercomSettings); } else { var d = document; var i = function () { i.c(arguments) }; i.q = []; i.c = function (args) { i.q.push(args) }; w.Intercom = i; function l() { var s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://widget.intercom.io/widget/hrpt54hy'; var x = d.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); } if (w.attachEvent) { w.attachEvent('onload', l); } else { w.addEventListener('load', l, false); } } })()
+    </script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('consent', 'default', {
+            'ad_storage': 'denied',
+            'analytics_storage': 'denied',
+            'functionality_storage': 'denied',
+            'personalization_storage': 'denied',
+            'security_storage': 'denied',
+            'wait_for_update': 500
+        });
+    </script>
+   <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'AW-1006729916', { 'anonymize_ip': true });
+        gtag('set', 'ads_data_redaction', true);
+    </script>
+    <script type="text/javascript">
+        (function ($) {
+            $(document).ready(function () {
+                var $et_contact_form = $("#et_manage_form"),
+                    $et_contact_form_errors,
+                    $et_user_name = $('#contact-name'),
+                    $et_user_email = $('#contact-email'),
+                    $et_user_department = $('#contact-department'),
+                    $et_user_message = $('#contact-message'),
+                    $et_user_sum = $('#contact-captcha');
+
+                $et_contact_form.submit(function () {
+                    if ($et_user_name.val() != '' && et_is_email_valid($et_user_email.val()) && $et_user_department.val() != '' && $et_user_message.val() != '' && $et_user_sum.val() != '') return true;
+
+                    if ($et_contact_form.find('div#error_messages').length) {
+                        $et_contact_form_errors.html('');
+                    } else {
+                        $et_contact_form.prepend('<div id="error_messages" class="et_errors"></div>');
+                        $et_contact_form_errors = $et_contact_form.find('div#error_messages');
+                    }
+
+                    if ($et_user_name.val() == '') $et_contact_form_errors.append('<p>You need to fill in the Name field</p>');
+
+                    if (!et_is_email_valid($et_user_email.val())) $et_contact_form_errors.append('<p>You need to fill in the Email field correctly</p>');
+
+                    if ($et_user_subject.val() == '') $et_contact_form_errors.append('<p>Please select your reason for contacting us</p>');
+
+                    if ($et_user_message.val() == '') $et_contact_form_errors.append('<p>You need to fill in the Message field </p>');
+
+                    if ($et_user_sum.val() == '') $et_contact_form_errors.append('<p>You need to fill in the Verification code field </p>');
+
+                    return false;
+                });
+
+                function et_is_email_valid(email) {
+                    var reg_expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,8}|[0-9]{1,3})(\]?)$/;
+                    if (reg_expr.test($.trim(email)))
+                        return true;
+                    else
+                        return false;
+                }
+            });
+        })(jQuery)
+    </script>
+</body>
+
+</html>

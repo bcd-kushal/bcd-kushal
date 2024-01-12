@@ -4934,6 +4934,18 @@ input.no-edit {
 .rotL img:hover{
   rotate: 4deg;
 }
+
+
+.review-card:hover{
+  scale: 1.03;
+}
+
+.tech-card:hover{
+  scale: 1.05;
+}
+
+
+
 /* Animations */
 @-webkit-keyframes fade-in {
   0% {

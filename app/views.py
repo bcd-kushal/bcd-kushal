@@ -28,21 +28,6 @@ def homepage(req):
 
 
 
-# ====================================================================
-# ====================================================================
-# ======[ PORTFOLIO ]=================================================
-# ====================================================================
-
-# @/gallery/    
-def gallery(req):
-    if req.method == "GET":
-        return render(req,"src/gallery.html",{})
-    else:
-        return send_bad_request(req)
-
-
-
-
 
 # ====================================================================
 # ====================================================================
@@ -73,10 +58,10 @@ def works(req):
     
 
 
-# @/works/websites/
-def websites(req):
+# @/works/projects/
+def projects(req):
     if req.method == "GET":
-        return render(req,"src/works/websites.html",{})
+        return render(req,"src/works/projects.html",{})
     else:
         return send_bad_request(req)
     
@@ -112,65 +97,16 @@ def teaching(req):
 
 # ====================================================================
 # ====================================================================
-# ======[ JOURNEY ]===================================================
+# ======[ INTERESTS ]===================================================
 # ====================================================================
 
-# @/journey/
-def journey(req):
+# @/interests/
+def interests(req):
     if req.method == "GET":
-        return render(req,"src/journey.html",{})
+        return render(req,"src/interests.html",{})
     else:
         return send_bad_request(req)
     
-
-
-
-# @/journey/learning/
-def learning(req):
-    if req.method == "GET":
-        return render(req,"src/journey/learning.html",{})
-    else:
-        return send_bad_request(req)
-    
-
-
-
-
-
-# @/journey/reading/
-def reading(req):
-    if req.method == "GET":
-        return render(req,"src/journey/reading.html",{})
-    else:
-        return send_bad_request(req)
-    
-
-
-
-
-
-# @/journey/anime/
-def anime(req):
-    if req.method == "GET":
-        return render(req,"src/journey/anime.html",{})
-    else:
-        return send_bad_request(req)
-    
-
-
-
-
-
-# @/journey/others/
-def other_journeys(req):
-    if req.method == "GET":
-        return render(req,"src/journey.html",{})
-    else:
-        return send_bad_request(req)
-    
-
-
-
 
 
 

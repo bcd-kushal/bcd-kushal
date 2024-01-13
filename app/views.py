@@ -66,33 +66,7 @@ def projects(req):
         return send_bad_request(req)
     
     
-# @/works/softwares/
-def softwares(req):
-    if req.method == "GET":
-        return render(req,"src/works/softwares.html",{})
-    else:
-        return send_bad_request(req)
     
-    
-# @/works/artworks/
-def artworks(req):
-    if req.method == "GET":
-        return render(req,"src/works/artworks.html",{})
-    else:
-        return send_bad_request(req)
-    
-    
-# @/works/teaching/
-def teaching(req):
-    if req.method == "GET":
-        return render(req,"src/works/teaching.html",{})
-    else:
-        return send_bad_request(req)
-    
-
-
-
-
 
 
 # ====================================================================

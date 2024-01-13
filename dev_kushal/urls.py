@@ -10,21 +10,11 @@ urlpatterns = [
     path('', views.homepage, name='homepage'),
     
     path('works/', views.works, name='works'),
-    path('works/websites/', views.websites, name='websites'),
-    path('works/softwares/', views.softwares, name='softwares'),
-    path('works/artworks/', views.artworks, name='artworks'),
-    path('works/teaching/', views.teaching, name='teaching'),
+    path('works/projects/', views.projects, name='projects'),
 
 
 
-    path('journey/', views.journey, name='journey'),
-    path('journey/learning/', views.learning, name='learning'),
-    path('journey/reading/', views.reading, name='reading'),
-    path('journey/anime/', views.anime, name='anime'),
-    path('journey/others/', views.other_journeys, name='other-journeys'),
-
-
-    path('gallery/', views.gallery, name='gallery'),
+    path('interests/', views.interests, name='interests'),
 
 
     path('portfolio/', views.portfolio, name='portfolio'),

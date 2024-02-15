@@ -28,7 +28,8 @@ my personal website, services, blogs and portfolio sites: all-in-one
     <td>
       <img style="height:25px;" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
       <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/> &nbsp;
-      <img style="height:25px;" src="https://i.imgur.com/fZXQgWk.png" title="source: imgur.com" /> &nbsp;
+      <img style="height:19px" src="https://imgur.com/Teh8F2y.png"/> &nbsp;
+      <img style="height:25px" src="https://i.imgur.com/fZXQgWk.png" title="source: imgur.com" /> &nbsp;
       <img style="height:25px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
       <img style="height:25px" src="https://railway.app/brand/logo-light.png"/> &nbsp;
@@ -40,11 +41,8 @@ my personal website, services, blogs and portfolio sites: all-in-one
     <td>https://services.kushalkumarsaha.com/</td>
     <td>
       <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
-      <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/> &nbsp;
-      <img style="height:25px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-      <img style="height:25px" src="https://railway.app/brand/logo-light.png"/> &nbsp;
+      <img style="height:23px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
+      <img style="height:19px" src="https://imgur.com/Teh8F2y.png"/> &nbsp;
     </td>
   </tr>
 

@@ -13,12 +13,13 @@ my personal website, services, blogs and portfolio sites: all-in-one
     <td>🌐 main website</td>
     <td>https://kushalkumarsaha.com/</td>
     <td>
-      <img style="height:25px;" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
-      <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"/> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" /> &nbsp;
-      <img style="height:25px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-      <img style="height:25px" src="https://railway.app/brand/logo-light.png"/> &nbsp;
+      <!-- astro -->       <img style="height:25px;" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
+      <!-- ts -->          <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
+      <!-- sass -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
+      <!-- go -->          <img style="height:30px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /> &nbsp;
+      <!-- supabase -->    <img style="height:24px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
+      <!-- docker -->      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+      <!-- railway -->     <img style="height:25px" src="https://railway.app/brand/logo-light.png"/> &nbsp;
     </td>
   </tr>
 
@@ -26,13 +27,12 @@ my personal website, services, blogs and portfolio sites: all-in-one
     <td>👨‍💼 portfolio</td>
     <td>https://portfolio.kushalkumarsaha.com/</td>
     <td>
-      <img style="height:25px;" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
-      <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/> &nbsp;
-      <img style="height:19px" src="https://imgur.com/Teh8F2y.png"/> &nbsp;
-      <img style="height:25px" src="https://i.imgur.com/fZXQgWk.png" title="source: imgur.com" /> &nbsp;
-      <img style="height:25px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-      <img style="height:25px" src="https://railway.app/brand/logo-light.png"/> &nbsp;
+      <!-- bootstrap -->    <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/> &nbsp;
+      <!-- js -->           <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
+      <!-- express -->      <img style="height:25px" src="https://i.imgur.com/fZXQgWk.png" title="source: imgur.com" /> &nbsp;
+      <!-- supabase -->     <img style="height:24px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
+      <!-- docker -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+      <!-- railway -->      <img style="height:25px" src="https://railway.app/brand/logo-light.png"/> &nbsp;
     </td>
   </tr>
 
@@ -40,9 +40,8 @@ my personal website, services, blogs and portfolio sites: all-in-one
     <td>🤝 services</td>
     <td>https://services.kushalkumarsaha.com/</td>
     <td>
-      <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
-      <img style="height:23px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <img style="height:19px" src="https://imgur.com/Teh8F2y.png"/> &nbsp;
+      <!-- next -->       <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
+      <!-- ts -->         <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
     </td>
   </tr>
 
@@ -50,12 +49,12 @@ my personal website, services, blogs and portfolio sites: all-in-one
     <td>📑 blogs</td>
     <td>https://blogs.kushalkumarsaha.com/</td>
     <td>
-      <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
-      <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-      <img style="height:25px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-      <img style="height:25px" src="https://railway.app/brand/logo-light.png"/> &nbsp;
+      <!-- django -->    <img style="height:26px;" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" /> &nbsp;
+      <!-- js -->        <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
+      <!-- sass -->      <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
+      <!-- redis -->     <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
+      <!-- mongodb -->   <img style="height:25px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
+      <!-- docker -->    <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
 </table>
@@ -76,12 +75,14 @@ my industry-scale projects
     <td>👩‍🎓 edtech: Ed.Line</td>
     <td>https://edline.kushalkumarsaha.com/<br>https://edteach.kushalkumarsaha.com/</td>
     <td>
-      <img style="height:26px;" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" /> &nbsp;
-      <img style="height:28px;" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png"/> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-      <img style="height:24px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"/> &nbsp;
-      <img style="height:25px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
-      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+      <!-- django -->    <img style="height:26px;" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" /> &nbsp;
+      <!-- js -->        <img style="height:23px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
+      <!-- sass -->      <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
+      <!-- nginx -->     <img style="height:28px;" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png"/> &nbsp;
+      <!-- redis -->     <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
+      <!-- sqlite -->    <img style="height:24px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"/> &nbsp;
+      <!-- mongo -->     <img style="height:25px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
+      <!-- docker -->    <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
 
@@ -89,6 +90,11 @@ my industry-scale projects
     <td>🎛️ CMS: UpScale</td>
     <td>https://upscale.kushalkumarsaha.com/</td>
     <td>
+      <!-- next -->        <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
+      <!-- ts -->          <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
+      <!-- sass -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
+      <!-- nginx -->     <img style="height:28px;" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png"/> &nbsp;
+      <!-- redis -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
     </td>
   </tr>
 
@@ -96,6 +102,13 @@ my industry-scale projects
     <td>👨‍👦‍👦 CRM: Revelate</td>
     <td>https://revelate.kushalkumarsaha.com/</td>
     <td>
+      <!-- gatsby -->      <img style="height:24px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/2bd495ca-29d8-4415-8e8c-a1979721816a"/> &nbsp;
+      <!-- ts -->          <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
+      <!-- mui -->         <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"/> &nbsp;
+      <!-- redis -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
+      <!-- graphql -->     <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"/> &nbsp;
+      <!-- cassandra -->   <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"/> &nbsp;
+      <!-- docker -->    <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
 
@@ -110,6 +123,13 @@ my industry-scale projects
     <td>🛒 ecomm: ShopSphere</td>
     <td>https://shopsphere.kushalkumarsaha.com/</td>
     <td>
+      <!-- next -->        <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
+      <!-- js -->          <img style="height:23px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
+      <!-- mui -->         <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"/> &nbsp;
+      <!-- prisma -->      <img style="height:23px" src="https://imgur.com/kw09l6d.png"/> &nbsp;
+      <!-- redis -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
+      <!-- mongo -->       <img style="height:25px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
+      <!-- supabase -->    <img style="height:23px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp; 
     </td>
   </tr>
 </table>

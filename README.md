@@ -153,14 +153,16 @@ my side-hustle web projects
     </td>
   </tr>
 
-  <td>12.</td>
+  <tr>
+    <td>12.</td>
     <td>🔗 minify</td>
     <td>https://minify.kushalkumarsaha.com/</td>
     <td>
     </td>
   </tr>
 
-  <td>13.</td>
+  <tr>
+    <td>13.</td>
     <td>🧪 api fetch</td>
     <td>https://apifetch.kushalkumarsaha.com/</td>
     <td>
@@ -172,7 +174,8 @@ my side-hustle web projects
     </td>
   </tr>
 
-  <td>14.</td>
+ <tr> 
+    <td>14.</td>
     <td>🎆 fireworks</td>
     <td>https://fireworks.kushalkumarsaha.com/</td>
     <td>
@@ -183,4 +186,73 @@ my side-hustle web projects
 </table>
 
 <hr>
+
+utility API-endpoints
+
+<table>
+  <th>
+    <td>Name</td>
+    <td>Link</td>
+    <td>Tech stack used</td>
+  </th>
+  <tr>
+    <td>15.</td>
+    <td>🗺️ GeoVerify</td>
+    <td>https://geoverify.kushalkumarsaha.com/</td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td>🕸️ iconZ</td>
+    <td>https://iconz.kushalkumarsaha.com/</td>
+    <td>
+    </td>
+  </tr>
+
+</table>
+
+<hr>
+
+pip packages
+
+<table>
+  <th>
+    <td>Name</td>
+    <td>Link</td>
+    <td>Installation</td>
+    <td>Language used</td>
+  </th>
+  <tr>
+    <td>15.</td>
+    <td>📦 Pipme</td>
+    <td>https://pypi.org/project/pipme</td>
+    <td>pip install pipme</td>
+    <td>
+      <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
+    </td>
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td>:octocat: Gittify</td>
+    <td>https://pypi.org/project/gittify</td>
+    <td>pip install gittify</td>
+    <td>
+      <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
+    </td>
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td>🐟 Beautifish</td>
+    <td>https://pypi.org/project/beautifish</td>
+    <td>pip install beautifish</td>
+    <td>
+      <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
+    </td>
+  </tr>
+
+</table>
 

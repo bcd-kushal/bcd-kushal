@@ -163,6 +163,10 @@ my side-hustle web projects
     <td>🧪 api fetch</td>
     <td>https://apifetch.kushalkumarsaha.com/</td>
     <td>
+      <!-- node -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp;
+      <!-- ts -->           <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
+      <!-- sass -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
+      <!-- docker -->    <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
 
@@ -170,6 +174,8 @@ my side-hustle web projects
     <td>🎆 fireworks</td>
     <td>https://fireworks.kushalkumarsaha.com/</td>
     <td>
+      <!-- node -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp;
+      <!-- js -->           <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
     </td>
   </tr>
 </table>

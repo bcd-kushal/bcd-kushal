@@ -158,6 +158,9 @@ my side-hustle web projects
     <td>🔗 minify</td>
     <td>https://minify.kushalkumarsaha.com/</td>
     <td>
+      <!-- next -->        <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
+      <!-- ts -->          <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
+      <!-- cassandra -->   <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"/> &nbsp;
     </td>
   </tr>
 

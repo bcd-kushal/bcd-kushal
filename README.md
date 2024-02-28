@@ -43,7 +43,6 @@ my personal website, services, blogs and portfolio sites: all-in-one
     <td>
       <!-- next -->       <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- ts -->         <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- sass -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
     </td>
   </tr>
 

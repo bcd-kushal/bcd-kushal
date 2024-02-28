@@ -188,6 +188,7 @@ my side-hustle web projects
     <td>
       <!-- node -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp;
       <!-- js -->           <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
+      <!-- snowpack -->     <img style="height:18px" src="https://imgur.com/tw3zNWo.png"/> &nbsp;
     </td>
   </tr>
 </table>

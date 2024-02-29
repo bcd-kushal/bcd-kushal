@@ -233,7 +233,7 @@ utility API-endpoints
 
 <hr>
 
-pip packages
+pip and npm packages
 
 <table>
   <th>
@@ -269,6 +269,18 @@ pip packages
     <td>pip install beautifish</td>
     <td>
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
+    </td>
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td>🎏 Vintage</td>
+    <td>https://www.npmjs.com/package/vintage-css<br>https://www.npmjs.com/package/vintage-scss</td>
+    <td>npm i vintage-css<br>npm i vintage-scss</td>
+    <td>
+      <!-- css -->        <img style="height:24px" title="css" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/> &nbsp;
+      <!-- scss -->       <img style="height:24px" title="scss" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
+      <!-- npm -->        <img style="height:24px" title="npm" src="https://github.com/bcd-kushal/Vintage/assets/96081625/948d7a35-3854-4e77-b9fa-c6b52185e0d9"/> &nbsp;
     </td>
   </tr>
 

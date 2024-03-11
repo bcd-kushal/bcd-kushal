@@ -3,7 +3,7 @@
 my personal website, services, blogs and portfolio sites: all-in-one
 
 <table>
-  <th>
+  <th> 
     <td>Name</td>
     <td>Link</td>
     <td>Tech stack used</td>

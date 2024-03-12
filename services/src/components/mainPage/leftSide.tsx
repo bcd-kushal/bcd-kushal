@@ -1,30 +1,22 @@
-"use client"
-
-import Image from "next/image"
+'use server'
 import "./leftSide.css"
 import Link from "next/link"
 
 
 // @/app/page.tsx
-export default function MainPageLeftSide() {
+export default async function MainPageLeftSide() {
 
     const inlineStyles = {
-        mt3: {
-            marginTop: "3px"
-        },
-        tdn: {
-            textDecoration: "none",
-        },
-        fill_black: {
-            fill: "#000"
-        }
+        mt3: { marginTop: "3px" },
+        tdn: { textDecoration: "none" },
+        fill_black: { fill: "#000" }
     }
 
     return (
         <>
             <div className="lcm-cont">
                 <div className="lcm-img">
-                    <img src={"/imgs/my_pfp.jpg"} style={{width:"100%",aspectRatio:"1"}} alt="" />
+                    <img src="https://github.com/bcd-kushal.png" style={{width:"100%",aspectRatio:"1"}} alt="" draggable={false} />
                 </div>
             </div>
 

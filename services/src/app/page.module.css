@@ -15,7 +15,7 @@
 
 .lcm{
     width: 32%;
-    background: #9b8bf8;
+    background: #b397de;
     padding: 60px 35px;
     display: flex;
     flex-direction: column;
@@ -35,7 +35,13 @@
     padding-right: 50px;
 }
 
-
+.loading {
+    width: 100dvw;
+    padding: 80px 0;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
 
 @media (max-width: 930px){
     .parentContainer{

@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+* {
+  margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+}
+
+:root {
+  --space-light-primary: #4e5cda60;
+
+  --globe-dark-side: #080913;
+
+}
+
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+
+
+.header {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24.48px;
+  vertical-align: baseline;
+  text-size-adjust: 100%;
+}
+
+
+.main-container { min-height: calc(100dvh - 56px); }
+.footer-container { min-height: calc(75dvh - 56px); }
+.blogs-main{ grid-template-columns: 1fr; }
+
+.blog-main-hero-design::before  { background: radial-gradient(circle at bottom center, #4e5cda60, transparent 70%); }
+.md-blog-main-hero-design::before  { background: transparent; }
+.globe { background: radial-gradient(circle at bottom center, #080913 81.7%, #4e5cda60 ); }
+
+.galaxy-link { position: relative; transition: .4s; }
+.galaxy-link:hover::before { z-index: -1; content: ''; position: absolute; inset: 0; background: radial-gradient(circle at center center, #4857de, transparent 75% ); filter: blur(9px); transition: .4s; }
+
+.earth { background: radial-gradient(circle at bottom center, #080913 81.7%, #4e5cda60 );  }
+.earth-reflectance { background: radial-gradient(circle at bottom center, #080913 75.7%, #88f1f3f1 ); }
+.earth-luminance { background: radial-gradient(circle at bottom center, #080913 81.7%, #5180b6ab ); }
+.earth-light { background: radial-gradient(circle at 48.7% 110%, #4e5cda50, transparent 70%); }
+
+.rights-reserved:hover #rightsReservedLink { text-decoration: underline; color: #88f1f328; }
+
+@media (min-width:768px){
+  .main-container { min-height: calc(100dvh - 48px); }
+  .footer-container { min-height: calc(75dvh - 56px); }
+  .blogs-main { grid-template-columns: 1fr 2fr; }
+  
+  .blog-main-hero-design::before  { background: transparent; }
+  .md-blog-main-hero-design::before  { background: radial-gradient(circle at top right, #4e5cda70, transparent 50%); }
+  .globe { background: radial-gradient(circle at center right, #080913 64.7%, #4e5cda60 ); }
+
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 3.9%;
+ 
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 3.9%;
+ 
+    --primary: 0 0% 9%;
+    --primary-foreground: 0 0% 98%;
+ 
+    --secondary: 0 0% 96.1%;
+    --secondary-foreground: 0 0% 9%;
+ 
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+ 
+    --accent: 0 0% 96.1%;
+    --accent-foreground: 0 0% 9%;
+ 
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 89.8%;
+    --input: 0 0% 89.8%;
+    --ring: 0 0% 3.9%;
+ 
+    --radius: 0.5rem;
+  }
+ 
+  .dark {
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 98%;
+ 
+    --card: 0 0% 3.9%;
+    --card-foreground: 0 0% 98%;
+ 
+    --popover: 0 0% 3.9%;
+    --popover-foreground: 0 0% 98%;
+ 
+    --primary: 0 0% 98%;
+    --primary-foreground: 0 0% 9%;
+ 
+    --secondary: 0 0% 14.9%;
+    --secondary-foreground: 0 0% 98%;
+ 
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+ 
+    --accent: 0 0% 14.9%;
+    --accent-foreground: 0 0% 98%;
+ 
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+ 
+    --border: 0 0% 14.9%;
+    --input: 0 0% 14.9%;
+    --ring: 0 0% 83.1%;
+  }
+}
+ 
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

@@ -1,0 +1,1 @@
+export const textGradient               = "text-transparent inline-block bg-clip-text"

@@ -46,6 +46,15 @@
 
 .rights-reserved:hover #rightsReservedLink { text-decoration: underline; color: #88f1f328; }
 
+.hoverable:hover::before { content: ''; position: absolute; width:70%; height:110%; background: radial-gradient(circle at center center, #4857de50 85%,transparent); left: 50%; transform: translateX(-50%); filter: blur(9px); transition: .4s; z-index: -1; }
+
+.light-reflect:before { position: absolute; content: ''; inset: 0; height: 100%; width: 100%; filter: blur(4px); clip-path: polygon(0 0, 100% 16px, 0 calc(100% - 30px)); background: linear-gradient(155deg, transparent 41.3%,#8c94f370);  }
+
+.tooltip-card-gradient { background: radial-gradient(circle at 19px 0%, transparent,#01070f 82%); }
+
+
+
+
 @media (min-width:768px){
   .main-container { min-height: calc(100dvh - 48px); }
   .footer-container { min-height: calc(75dvh - 56px); }

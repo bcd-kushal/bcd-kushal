@@ -26,8 +26,8 @@ export function BlogBluePrint({ children }: { children: ChildrenType }) {
                 {/* ---------- hero section -------- */}
                 <div className="main-container max-w-[1160px] px-4 md:px-8 gap-4 md:gap-7 left-1/2 translate-x-[-50%] relative grid row-start-1 col-start-1 blogs-main">
                     <header className="flex flex-col items-stretch justify-start mt-[92px]">
-                        <div className="text-xs mb-[-16px] pl-1">Myself,</div>
-                        <div className={`my-6 pb-[10.4px] ${textGradient} ${HEADER_H1} bg-gradient-to-br from-[#fff] from-20% to-[#ffffff38]`}>Kushal Kumar</div>
+                        <div className="text-xs mb-[-16px] pl-1">You've landed to</div>
+                        <div className={`my-6 pb-[10.4px] ${textGradient} ${HEADER_H1} bg-gradient-to-br from-[#fff] from-20% to-[#ffffff38]`}>Kushal's blogs</div>
                         <div className="flex gap-1 mt-[10px]">
                             <TagGalaxy text="130" type="blog" />
                             <TagGalaxy text="83" type="comment" />

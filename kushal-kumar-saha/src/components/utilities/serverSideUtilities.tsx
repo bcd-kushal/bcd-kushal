@@ -83,5 +83,11 @@ export async function SearchBarGalaxy({className}:{className?:ClassNameType}) {
  * ****************************************************/
 
 export async function TagGalaxy({text, type, className}:{text:string, type:'normal'|'comment'|'readers'|'blog', className?:ClassNameType}) {
-    return ( <div className={`dark:text-[#d0d1d1] bg-[#ffffff01] backdrop-blur-[1.2px] border-[0.6667px] w-fit rounded-s-full rounded-e-full flex items-center px-3 font-medium leading-[28px] text-[13px] h-7`}>{type==='comment' ? <MessageCircleIcon width={11} height={11} className="mb-[1px] mr-1"/> : type==='readers' ? <UsersRoundIcon width={11} height={11} className="mb-[1px] mr-1"/>  : type==='blog' ? <NotebookTextIcon width={11} height={11} className="mb-[1px] mr-1"/> : ""} {text}</div> )
+    return ( 
+        <TooltipProvider><Tooltip><TooltipTrigger asChild>
+                <div className={`hoverable relative dark:text-[#d0d1d1] bg-[#ffffff01] cursor-pointer backdrop-blur-[1.2px] border-[0.6667px] w-fit rounded-s-full rounded-e-full flex items-center px-3 font-medium leading-[28px] text-[13px] h-7`}> {type==='comment' ? <MessageCircleIcon width={11} height={11} className="mb-[1px] mr-1"/> : type==='readers' ? <UsersRoundIcon width={11} height={11} className="mb-[1px] mr-1"/>  : type==='blog' ? <NotebookTextIcon width={11} height={11} className="mb-[1px] mr-1"/> : ""} {text} </div>
+            </TooltipTrigger><TooltipContent side="bottom"  className="bg-transparent text-[#fff8]">
+                {type==='comment' ? "Comments" : type==='readers' ? "Readers" : type==='blog' ? "Blogs" : "" }{type==='normal' ? "":`: ${text}`}
+        </TooltipContent></Tooltip></TooltipProvider>
+    )
 }

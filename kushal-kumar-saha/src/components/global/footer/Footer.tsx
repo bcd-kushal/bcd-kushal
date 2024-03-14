@@ -17,5 +17,5 @@ export async function Footer({theme}:{theme:ThemeType}) {
 
 
 export async function RightsReserved() {
-    return ( <span className="rights-reserved px-4 md:px-8 rights-reserved absolute bottom-0 left-1/2 -translate-x-1/2 cursor-default text-center z-40 text-[#88f1f311] pb-2 tracking-widest text-[8.03px] min-[350px]:text-[9.25px] sm:text-[10.8px] whitespace-nowrap"> Designed and created by <SelfGithubLink/> • All rights reserved </span> )
+    return ( <span className="rights-reserved px-4 md:px-8 absolute bottom-0 left-1/2 -translate-x-1/2 cursor-default text-center z-40 text-[#88f1f311] pb-2 tracking-widest text-[8.03px] min-[350px]:text-[9.25px] sm:text-[10.8px] whitespace-nowrap"> Designed and created by <SelfGithubLink/> • All rights reserved </span> )
 }

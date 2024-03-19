@@ -7,26 +7,31 @@
     width: 100dvw;
     background: transparent;
     display: flex;
-    /* flex-direction: column; */
     justify-content: space-between;
     align-items: stretch;
     overflow-x: hidden;
 }
 
 .lcm{
-    width: 32%;
-    background: #b397de;
+    width: 30%;
+    background: #121212;
     padding: 60px 35px;
     display: flex;
     flex-direction: column;
     gap: 12px;
     position: sticky;
     top: 0;
+    transform: translateY(-1px);
+    scale: 1 1.002;
+}
+
+.lcm > * {
+    color: #bcbcbc;
 }
 
 
 .rcm{
-    width: 68%;
+    width: 70%;
     padding: 0 0 60px;
 }
 

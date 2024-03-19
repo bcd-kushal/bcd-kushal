@@ -2,6 +2,7 @@
 import "@/components/mainPage/rightSide.css"
 import MyServices from "@/data/services"
 import Link from "next/link"
+import sendSiteTraffic from "@/data/traffic"
 import { useEffect, useState } from "react"
 
 
@@ -41,12 +42,14 @@ export default function HomeServicesPanel() {
 
     }, [currTag])
 
+    sendSiteTraffic()
 
     return (
         <>
             <div className="rcm-sticky">
                 <div className="rcm-filter" onClick={() => { (typeof setCurrTag === 'function') ? setCurrTag(prev => "All") : "" }}>All</div>
                 <div className="rcm-filter" onClick={() => { (typeof setCurrTag === 'function') ? setCurrTag(prev => "Software") : "" }}>Software</div>
+                <div className="rcm-filter" onClick={() => { (typeof setCurrTag === 'function') ? setCurrTag(prev => "Pentesting") : "" }}>Pentesting</div>
                 <div className="rcm-filter" onClick={() => { (typeof setCurrTag === 'function') ? setCurrTag(prev => "Discord") : "" }}>Discord</div>
                 <div className="rcm-filter" onClick={() => { (typeof setCurrTag === 'function') ? setCurrTag(prev => "Art") : "" }}>Art</div>
                 <div className="rcm-filter" onClick={() => { (typeof setCurrTag === 'function') ? setCurrTag(prev => "Editing") : "" }}>Editing</div>
@@ -85,9 +88,6 @@ export default function HomeServicesPanel() {
                     </Link>
                 ))}
             </div>
-
-
-            
 
         </>
     )

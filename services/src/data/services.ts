@@ -4,10 +4,10 @@ export default function MyServices(){
     function createBody(str:string){
         const commonBody = "Hi Kushal, I want to get myself"
         const addressingVowel = vowels.includes(str[0].toLowerCase()) ? "an" : "a"
-        const action = "created/edited"
+        const action = ["created/edited", "done"]
         const tail = "I look forward to working with you"
 
-        return `${commonBody} ${addressingVowel} ${str} ${action}.\n\n${tail}.`
+        return `${commonBody} ${addressingVowel} ${str} ${str.includes("penetration")||str.includes("security") ? action[1] : action[0]}.\n\n${tail}.`
     }
 
     function createSubject(str:string){
@@ -69,6 +69,27 @@ export default function MyServices(){
             "emailSubject": createSubject("Automation")
         },
     
+
+        {
+            "booking_name": "Penetration testing",
+            "tag": "Pentesting",
+            "time": "3-4 days",
+            "price": "₹ 900+",
+            "description": "Get your software/website tested for backdoors or threat vulnerabilities",
+            "emailBody": createBody("penetration test"),
+            "emailSubject": createSubject("Pentesting")
+        },
+        
+
+        {
+            "booking_name": "Software security check",
+            "tag": "Pentesting",
+            "time": "3-4 days",
+            "price": "₹ 600+",
+            "description": "Get your software/website tested for security vulnerabilities",
+            "emailBody": createBody("security test"),
+            "emailSubject": createSubject("Security test")
+        },
     
     
         {
@@ -120,7 +141,7 @@ export default function MyServices(){
     
     
         {
-            "booking_name": "Wordpress website creation",
+            "booking_name": "Wordpress site",
             "tag": "Software",
             "time": "1-2 days",
             "price": "₹ 300+",
@@ -128,6 +149,7 @@ export default function MyServices(){
             "emailBody": createBody("wordpress site"),
             "emailSubject": createSubject("Wordpress")
         },
+    
     
     
     ]

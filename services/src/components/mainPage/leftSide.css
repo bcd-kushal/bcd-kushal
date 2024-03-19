@@ -4,13 +4,26 @@
 
 .lcm-cont{
     width: 100%;
+    position: relative;
+}
+
+.lcm-logo {
+    position: absolute;
+    bottom: 0;
+    left: 132.5px;
+    z-index: 222;
+    aspect-ratio: 1;
+    width: 35px;
+    display: grid;
+    place-items: center;
 }
 
 .lcm-cont .lcm-img{
     aspect-ratio: 1;
-    width: 200px;
+    width: 150px;
     border-radius: 300px;
     overflow: hidden;
+    position: relative;
 }
 
 .lcm-cont .lcm-img Image{
@@ -19,22 +32,33 @@
 
 
 .lcm-name{
-    font-weight: 800;
-    font-size: 2.3rem;
-    margin-top: 20px;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: -1.6px;
+    margin-left: -1.6px;
+    margin-top: 12px;
 }
+
 
 .lcm-subtitle{
-    font-weight: 400;
-    font-size: 1rem;
+    font-weight: 800;
+    font-size: .7rem;
+    letter-spacing: .2em;
+    margin-top: -6px;
 }
 
+.lcm-homepage { 
+    display: flex;
+    gap: 6px; 
+    align-items: center;
+}
 
 .lcm-surprise{
     margin-top: 20px;
     border-radius: 8px;
-    background: #fff;
-    padding: 14px 23px;
+    background: #bcbcbc;
+    padding: 10px 17px;
     width: fit-content;
     font-weight: bold;
     font-size: 1.03rem;
@@ -57,6 +81,7 @@
     bottom: 35px;
     display: flex;
     gap: 35px;
+    align-items: center;
 }
 
 .lcm-links a svg{
@@ -75,7 +100,7 @@
     }
 
     .lcm-subtitle{
-        font-size: 1rem;
+        font-size: 12px;
     }
     
     .lcm-links{
@@ -87,7 +112,6 @@
     
     .lcm-links a svg{
         scale: 1.22;
-        fill: #3d385899 !important;
     }
 
     .lcm-surprise{

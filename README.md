@@ -206,9 +206,9 @@ my side-hustle web projects
     <td>🎆 fireworks</td>
     <td>https://fireworks.kushalkumarsaha.com/</td>
     <td>
-      <!-- node -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp;
-      <!-- js -->           <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
-      <!-- snowpack -->     <img style="height:18px" src="https://imgur.com/tw3zNWo.png"/> &nbsp;
+      <!-- astro -->      <img style="height:25px" title="Astro" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
+      <!-- js -->         <img style="height:24px" title="JS" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
+      <!-- sass -->       <img style="height:24px" title="Sass" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
     </td>
   </tr>
 </table>

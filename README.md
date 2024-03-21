@@ -1,7 +1,4 @@
-# Kushal Kumar
-
-my personal website, services, blogs and portfolio sites: all-in-one
-
+<img src="https://imgur.com/VYDC77Z.png"/>
 <table>
   <th> 
     <td>Name</td>
@@ -79,7 +76,7 @@ my personal website, services, blogs and portfolio sites: all-in-one
 <hr>
 
 
-my industry-scale projects
+Featured projects
 
 <table>
   <th>
@@ -156,7 +153,7 @@ my industry-scale projects
 
 <hr>
 
-my side-hustle web projects
+Side-hustle projects
 
 <table>
   <th>
@@ -215,7 +212,7 @@ my side-hustle web projects
 
 <hr>
 
-utility API-endpoints
+Utility API-endpoints
 
 <table>
   <th>
@@ -251,7 +248,7 @@ utility API-endpoints
 
 <hr>
 
-pip and npm packages
+`pip` and `npm` packages
 
 <table>
   <th>

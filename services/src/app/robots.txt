@@ -1,6 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow:
-Crawl-Delay: 0
-
-Sitemap: https://services.kushalkumarsaha.com/sitemap.xml

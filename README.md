@@ -1,10 +1,5 @@
 <img src="https://imgur.com/VYDC77Z.png"/>
 <table>
-  <th> 
-    <td>Name</td>
-    <td>Link</td>
-    <td>Tech stack used</td>
-  </th>
   <tr>
     <td>1.</td>
     <td>🌐 main website</td>
@@ -64,14 +59,9 @@
 <hr>
 
 
-Featured projects
+### Featured projects
 
 <table>
-  <th>
-    <td>Name</td>
-    <td>Link</td>
-    <td>Tech stack used</td>
-  </th>
   <tr>
     <td>5.</td>
     <td>👩‍🎓 edtech: Ed.Line</td>
@@ -141,14 +131,9 @@ Featured projects
 
 <hr>
 
-Side-hustle projects
+### Side-hustle projects
 
 <table>
-  <th>
-    <td>Name</td>
-    <td>Link</td>
-    <td>Tech stack used</td>
-  </th>
   <tr>
     <td>11.</td>
     <td>🐶 mapifind</td>
@@ -213,14 +198,9 @@ Side-hustle projects
 
 <hr>
 
-Utility API-endpoints
+### Utility API-endpoints
 
 <table>
-  <th>
-    <td>Name</td>
-    <td>Link</td>
-    <td>Tech stack used</td>
-  </th>
   <tr>
     <td>15.</td>
     <td>🗺️ GeoVerify</td>
@@ -249,15 +229,9 @@ Utility API-endpoints
 
 <hr>
 
-`pip` and `npm` packages
+### `pip` and `npm` packages
 
 <table>
-  <th>
-    <td>Name</td>
-    <td>Link</td>
-    <td>Installation</td>
-    <td>Language used</td>
-  </th>
   <tr>
     <td>15.</td>
     <td>📦 Pipme</td>

@@ -1,7 +1,6 @@
 <img src="https://imgur.com/VYDC77Z.png"/>
 <table>
   <tr>
-    <td>1.</td>
     <td>🌐 main website</td>
     <td>https://kushalkumarsaha.com/</td>
     <td>
@@ -15,7 +14,7 @@
     </td>
   </tr>
 
-  <td>2.</td>
+ <tr>
     <td>👨‍💼 portfolio</td>
     <td>https://portfolio.kushalkumarsaha.com/</td>
     <td>
@@ -29,7 +28,7 @@
     </td>
   </tr>
 
-  <td>3.</td>
+ <tr>
     <td>🤝 services</td>
     <td>https://services.kushalkumarsaha.com/</td>
     <td>
@@ -40,7 +39,7 @@
     </td>
   </tr>
 
-  <td>4.</td>
+ <tr>
     <td>📑 blogs</td>
     <td>https://blogs.kushalkumarsaha.com/</td>
     <td>
@@ -63,7 +62,6 @@
 
 <table>
   <tr>
-    <td>5.</td>
     <td>👩‍🎓 edtech: Ed.Line</td>
     <td>https://edline.kushalkumarsaha.com/<br>https://edteach.kushalkumarsaha.com/</td>
     <td>
@@ -78,7 +76,7 @@
     </td>
   </tr>
 
-  <td>6.</td>
+ <tr>
     <td>🎛️ CMS: UpScale</td>
     <td>https://upscale.kushalkumarsaha.com/</td>
     <td>
@@ -91,7 +89,7 @@
     </td>
   </tr>
 
-  <td>7.</td>
+  <tr>
     <td>👨‍👦‍👦 CRM: Revelate</td>
     <td>https://revelate.kushalkumarsaha.com/</td>
     <td>
@@ -105,14 +103,7 @@
     </td>
   </tr>
 
-  <td>8.</td>
-    <td>🛻 LMS: LogiXpert</td>
-    <td>https://logixpert.kushalkumarsaha.com/</td>
-    <td>
-    </td>
-  </tr>
-
-  <td>9.</td>
+  <tr>
     <td>🛒 ecomm: ShopSphere</td>
     <td>https://shopsphere.kushalkumarsaha.com/</td>
     <td>
@@ -127,15 +118,8 @@
       <!-- supabase -->    <img style="height:23px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp; 
     </td>
   </tr>
-</table>
-
-<hr>
-
-### Side-hustle projects
-
-<table>
+  
   <tr>
-    <td>11.</td>
     <td>🐶 mapifind</td>
     <td>https://mapifind.kushalkumarsaha.com/</td>
     <td>
@@ -143,7 +127,6 @@
   </tr>
 
   <tr>
-    <td>12.</td>
     <td>🔗 minify</td>
     <td>https://minify.kushalkumarsaha.com/</td>
     <td>
@@ -159,31 +142,6 @@
   </tr>
 
   <tr>
-    <td>13.</td>
-    <td>🧪 api fetch</td>
-    <td>https://apifetch.kushalkumarsaha.com/</td>
-    <td>
-      <!-- node -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp;
-      <!-- ts -->           <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- sass -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
-      <!-- snowpack -->     <img style="height:18px" src="https://imgur.com/tw3zNWo.png"/> &nbsp;
-      <!-- docker -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-    </td>
-  </tr>
-
- <tr> 
-    <td>14.</td>
-    <td>🎆 fireworks</td>
-    <td>https://fireworks.kushalkumarsaha.com/</td>
-    <td>
-      <!-- astro -->      <img style="height:25px" title="Astro" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
-      <!-- js -->         <img style="height:24px" title="JS" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
-      <!-- sass -->       <img style="height:24px" title="Sass" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
-    </td>
-  </tr>
-
-  <tr>
-    <td>15.</td>
     <td>🚦 user traffic</td>
     <td>https://stats.kushalkumarsaha.com/</td>
     <td>
@@ -202,7 +160,6 @@
 
 <table>
   <tr>
-    <td>15.</td>
     <td>🗺️ GeoVerify</td>
     <td>https://geoverify.kushalkumarsaha.com/</td>
     <td>
@@ -213,7 +170,6 @@
   </tr>
 
   <tr>
-    <td>16.</td>
     <td>🕸️ iconZ</td>
     <td>https://iconz.kushalkumarsaha.com/</td>
     <td>
@@ -233,7 +189,6 @@
 
 <table>
   <tr>
-    <td>15.</td>
     <td>📦 Pipme</td>
     <td>https://pypi.org/project/pipme</td>
     <td>pip install pipme</td>
@@ -243,7 +198,6 @@
   </tr>
 
   <tr>
-    <td>16.</td>
     <td>:octocat: Gittify</td>
     <td>https://pypi.org/project/gittify</td>
     <td>pip install gittify</td>
@@ -253,7 +207,6 @@
   </tr>
 
   <tr>
-    <td>16.</td>
     <td>🐟 Beautifish</td>
     <td>https://pypi.org/project/beautifish</td>
     <td>pip install beautifish</td>
@@ -263,7 +216,6 @@
   </tr>
 
   <tr>
-    <td>16.</td>
     <td>🎏 Vintage</td>
     <td>https://www.npmjs.com/package/vintage-css<br>https://www.npmjs.com/package/vintage-scss</td>
     <td>npm i vintage-css<br>npm i vintage-scss</td>
@@ -275,4 +227,6 @@
   </tr>
 
 </table>
+
+## See my full projects list [here](https://kushalkumarsaha.com/projects/tree) ✨
 

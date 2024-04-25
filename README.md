@@ -1,4 +1,4 @@
-<img src="https://imgur.com/VYDC77Z.png"/> 
+<img src="https://imgur.com/VYDC77Z.png"/>
 <table>
   <tr>
     <td>🌐 main website</td>

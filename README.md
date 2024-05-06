@@ -226,6 +226,6 @@
     </td>
   </tr>
 
-</table>
+</table> 
 
 ## See my full projects list [here](https://kushalkumarsaha.com/projects/tree) ✨

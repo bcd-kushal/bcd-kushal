@@ -1,6 +1,6 @@
 <img src="https://imgur.com/VYDC77Z.png"/>
 <table>
-  <tr> 
+  <tr>
     <td>🌐 main website</td>
     <td>https://kushalkumarsaha.com/</td>
     <td>

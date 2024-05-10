@@ -156,7 +156,7 @@
 
 <hr>
 
-### Utility API-endpoints
+### `pip` packages & API-endpoints
 
 <table>
   <tr>
@@ -180,18 +180,10 @@
       <!-- docker -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
-
-</table>
-
-<hr>
-
-### `pip` and `npm` packages
-
-<table>
+  
   <tr>
     <td>📦 Pipme</td>
-    <td>https://pypi.org/project/pipme</td>
-    <td>pip install pipme</td>
+    <td>https://pypi.org/project/pipme <br> pip install pipme</td>
     <td>
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
     </td>
@@ -199,8 +191,7 @@
 
   <tr>
     <td>:octocat: Gittify</td>
-    <td>https://pypi.org/project/gittify</td>
-    <td>pip install gittify</td>
+    <td>https://pypi.org/project/gittify <br> pip install gittify</td>
     <td>
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
     </td>
@@ -208,23 +199,13 @@
 
   <tr>
     <td>🐟 Beautifish</td>
-    <td>https://pypi.org/project/beautifish</td>
-    <td>pip install beautifish</td>
+    <td>https://pypi.org/project/beautifish <br> pip install beautifish</td>
     <td>
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
     </td>
   </tr>
 
-  <tr>
-    <td>🎏 Vintage</td>
-    <td>https://www.npmjs.com/package/vintage-css<br>https://www.npmjs.com/package/vintage-scss</td>
-    <td>npm i vintage-css<br>npm i vintage-scss</td>
-    <td>
-      <!-- css -->        <img style="height:24px" title="css" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/> &nbsp;
-      <!-- scss -->       <img style="height:24px" title="scss" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
-      <!-- npm -->        <img style="height:24px" title="npm" src="https://github.com/bcd-kushal/Vintage/assets/96081625/948d7a35-3854-4e77-b9fa-c6b52185e0d9"/> &nbsp;
-    </td>
-  </tr>
+</table>
 
 </table> 
 

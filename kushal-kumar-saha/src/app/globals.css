@@ -6,6 +6,7 @@
   /* base colors ======================================================= */
   --a-10: 0.1; --a-20: 0.2; --a-25: 0.25; --a-30: 0.3; --a-40: 0.4; --a-50: 0.5; --a-60: 0.6; --a-70: 0.7; --a-80: 0.8; --a-90: 0.9; --a-99: 0.99; --a-100: 1;
   --r: 78; --g: 92; --b: 218;
+  /* #4e5cda */
 
   --purple: rgba(var(--r),var(--g),var(--b),var(--a-100));
   --purple-99: rgba(var(--r),var(--g),var(--b),var(--a-99));
@@ -135,6 +136,9 @@ body::-webkit-scrollbar-track { background: var(--globe-dark-side);}
 .input-square {
   animation: animateSquareTranslate 2s cubic-bezier(.11,1.03,.75,1.42), animateSquareTranslateBack 1.5s ease-out 2s;
 }
+.input-line-dash-cover {
+  animation: animateCoverLine1 2s cubic-bezier(.11,1.03,.75,1.42), animateCoverLine2 1.5s ease-out 2s;
+}
 @keyframes animateBorderWidth {
   0%      { width: 0; background: #fff5; }
   100%    { width: 100px; background: #fff5; }
@@ -151,7 +155,14 @@ body::-webkit-scrollbar-track { background: var(--globe-dark-side);}
   0%, 50% { right: 0 }
   100%    { right: 100% }
 }
-
+@keyframes animateCoverLine1 {
+  0%      { width: 0 }
+  100%    { width: 100px }
+}
+@keyframes animateCoverLine2 {
+  0%      { width: 100px }
+  100%    { width: 0 }
+}
 
 
 /* TAILWIND =================================================================== */

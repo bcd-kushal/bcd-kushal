@@ -1,0 +1,1 @@
+export const formInputStyles = "bg-transparent text-lg py-2 rounded-lg transition-all duration-300 outline-none focus:px-3 focus:outline-none"

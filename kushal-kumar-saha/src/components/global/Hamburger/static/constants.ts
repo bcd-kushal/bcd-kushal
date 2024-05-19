@@ -1,0 +1,2 @@
+export const HAMBURGER_BACKDROP_SHADE = "bg-gradient-to-b from-[#4e5cda35] to-transparent"
+export const HAMBURGER_INSIDE_CONTENT_LAYOUT = "grid-cols-2 sm:grid-cols-[2fr_3fr_3fr] grid-rows-11 sm:grid-rows-9"

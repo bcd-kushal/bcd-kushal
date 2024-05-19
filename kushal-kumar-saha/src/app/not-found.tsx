@@ -4,8 +4,8 @@ import { useToast } from "@/components/ui/use-toast"
 import { useEffect, useState } from 'react'
 import { HEADER_H2, HEADER_H3 } from '@/utils/decorators/headers'
 import { useRouter } from 'next/navigation'
+import { TIME_IN_SECS_TILL_HOME_REDIRECT } from '@/defaults/constants'
 
-const TIME_IN_SECS_TILL_HOME_REDIRECT = 7
 
 export default function NotFound() {
     const { toast } = useToast()

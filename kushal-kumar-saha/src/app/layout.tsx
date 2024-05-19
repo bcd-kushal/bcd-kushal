@@ -1,36 +1,34 @@
 import type { Metadata } from "next"
 import { Outfit as FontSans } from "next/font/google"
 import "./globals.css"
-import { Footer, RightsReserved } from "@/components/global/footer/Footer"
+import { Footer, RightsReserved } from "@/components/global/Footer/Footer"
 import { cn } from "@/lib/utils"
-import { ThemeType } from "@/utils/types/types"
+import { ThemeType } from "@/defaults/types/commonTypes"
 import { getTheme } from "@/utils/server/theme"
-import { BlogMainHeroBG } from "@/utils/decorators/uiDesigns"
-import { BlogsHeader } from "@/components/blogs/header/Header"
-import { BlogBluePrint } from "@/components/blogs/blueprint/Blueprint"
+import { BlogsHeader } from "@/components/global/header/Header"
 import { Toaster } from "@/components/ui/toaster"
-import { EarthEffect, BottomGreatStar } from "@/components/global/footer/Stars"
+import { EarthEffect, BottomGreatStar } from "@/components/global/Footer/Stars"
+import KushalKumarSVG from "../../public/logo/kushalkumar_bg_dark.svg"
 
 const fontSans = FontSans({ subsets: ["latin"], variable: "--font-sans" })
 
 export const metadata: Metadata = {
-	title: "Blogs: Kushal Kumar Saha",
-	description: "Kushal Kumar Saha's blogs",
+	title: "Kushal Kumar Saha",
+	description: "Kushal Kumar Saha",
 }
 
 export default async function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
 	const theme: ThemeType = await getTheme()
 	return (
 		<html lang="en" className={theme} suppressHydrationWarning>
-			<body className={cn(`bg-background relative min-h-[300dvh] font-sans antialiased md-blog-main-hero-design ${BlogMainHeroBG.before}`, fontSans.variable)} style={{ overflowX: "hidden" }}>
+			<head><link rel="shortcut icon" href={KushalKumarSVG.src} type="image/x-icon" /></head>
+			<body className={cn(`bg-background relative min-h-[300dvh] font-sans antialiased`, fontSans.variable)} style={{ overflowX: "hidden" }}>
 				
 				{/* ---------- header ribbon -------- */}
 				<BlogsHeader theme={theme} />
 
-				{/* ---------- header ribbon -------- */}
-				<BlogBluePrint>
-					{children}
-				</BlogBluePrint>
+				{/* ---------- children ------------- */}
+				{children}
 
 				{/* ---------- earth effect at bottom */}
 				<BottomGreatStar/>

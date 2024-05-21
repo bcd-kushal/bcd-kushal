@@ -56,7 +56,8 @@ body::-webkit-scrollbar-track { background: var(--globe-dark-side);}
 /* ----------| link hover effect */
 .galaxy-link { position: relative; transition: .4s; }
 .galaxy-link:hover::before { z-index: -1; content: ''; position: absolute; inset: 0; background: radial-gradient(circle at center center, #4857de, transparent 75% ); filter: blur(9px); transition: .4s; }
-
+/* ----------| title gradient */
+.title-gradient { color: transparent; background-clip: text; background: linear-gradient(to bottom right, #fff 20%, #ffffff38); -webkit-text-fill-color: transparent; -webkit-background-clip: text; }
 
 
 /* HEADER ============================================================================= */

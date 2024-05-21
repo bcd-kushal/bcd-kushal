@@ -3,8 +3,6 @@ import { Outfit as FontSans } from "next/font/google"
 import "./globals.css"
 import { Footer, RightsReserved } from "@/components/global/Footer/Footer"
 import { cn } from "@/lib/utils"
-import { ThemeType } from "@/defaults/types/commonTypes"
-import { getTheme } from "@/utils/server/theme"
 import { BlogsHeader } from "@/components/global/header/Header"
 import { Toaster } from "@/components/ui/toaster"
 import { EarthEffect, BottomGreatStar } from "@/components/global/Footer/Stars"
@@ -17,27 +15,28 @@ export const metadata: Metadata = {
 	description: "Kushal Kumar Saha",
 }
 
+export const revalidate = 600
+
 export default async function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-	const theme: ThemeType = await getTheme()
 	return (
-		<html lang="en" className={theme} suppressHydrationWarning>
+		<html lang="en" className="dark" suppressHydrationWarning>
 			<head><link rel="shortcut icon" href={KushalKumarSVG.src} type="image/x-icon" /></head>
 			<body className={cn(`bg-background relative min-h-[300dvh] font-sans antialiased`, fontSans.variable)} style={{ overflowX: "hidden" }}>
-				
+
 				{/* ---------- header ribbon -------- */}
-				<BlogsHeader theme={theme} />
+				<BlogsHeader />
 
 				{/* ---------- children ------------- */}
 				{children}
 
 				{/* ---------- earth effect at bottom */}
-				<BottomGreatStar/>
-				<EarthEffect/>
+				<BottomGreatStar />
+				<EarthEffect />
 
 				{/* ---------- footer area ---------- */}
-				<Footer theme={theme} />
-				<RightsReserved/>
-				<Toaster/>
+				<Footer />
+				<RightsReserved />
+				<Toaster />
 			</body>
 		</html>
 	)

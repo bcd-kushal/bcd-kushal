@@ -1,16 +1,13 @@
 <img src="https://imgur.com/VYDC77Z.png"/>
 <table>
   <tr>
-    <td>🌐 main website</td>
+    <td>🌐 main website + blogs</td>
     <td>https://kushalkumarsaha.com/</td> 
     <td> 
-      <!-- astro -->       <img style="height:25px" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
+      <!-- next -->        <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- ts -->          <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- sass -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> 
-      <!-- go -->          <img style="height:30px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /> &nbsp;
-      <!-- supabase -->    <img style="height:24px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
-      <!-- docker -->      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-      <!-- railway -->     <img style="height:25px" src="https://railway.app/brand/logo-light.png"/> &nbsp;
+      <!-- shadcn/ui -->   <img style="height:24px" title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"/> &nbsp;
+      <!-- tailwind -->    <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
     </td>
   </tr>
  
@@ -36,20 +33,6 @@
       <!-- ts -->         <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
       <!-- sass -->       <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
       <!-- docker -->     <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-    </td>
-  </tr>
-
- <tr>
-    <td>📑 blogs</td>
-    <td>https://blogs.kushalkumarsaha.com/</td>
-    <td>
-      <!-- next -->        <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
-      <!-- ts -->          <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- shadcn/ui -->   <img style="height:24px" title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"/> &nbsp;
-      <!-- tailwind -->    <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-      <!-- elasticsearch --><img style="height:21px" title="elasticsearch" src="https://github.com/bcd-kushal/bcd-kushal/assets/96081625/b52fc066-57f4-40ae-8592-49568f525ed8"/> &nbsp;
-      <!-- redis -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-      <!-- firebase -->    <img style="height:25px" src="https://github.com/bcd-kushal/bcd-kushal/assets/96081625/bdc51c5e-1866-4865-b638-39bcf273494d"/> &nbsp;
     </td>
   </tr>
 

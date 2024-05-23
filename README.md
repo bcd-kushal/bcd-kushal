@@ -1,7 +1,7 @@
 <img src="https://imgur.com/VYDC77Z.png"/>
 <table>
   <tr>
-    <td>🌐 main website + blogs</td>
+    <td>🌐 Main website + Blogs</td>
     <td>https://kushalkumarsaha.com/</td> 
     <td> 
       <!-- next -->        <img style="height:23px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
@@ -15,7 +15,7 @@
   </tr>
  
  <tr>
-    <td>👨‍💼 portfolio</td>
+    <td>👨‍💼 Portfolio</td>
     <td>https://portfolio.kushalkumarsaha.com/</td>
     <td>
       <!-- astro -->        <img style="height:25px" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;

@@ -1,10 +1,9 @@
 'use server'
 import { SelfGithubLink } from "@/components/utilities/serverSideUtilities"
 import { HEADER_H2 } from "@/utils/decorators/headers"
-import { ThemeType } from "@/defaults/types/commonTypes"
 
 
-export async function Footer({theme}:{theme:ThemeType}) {
+export async function Footer() {
     return (
         <footer className="footer-container pt-[25dvh] pb-[65px] z-[40] px-4 md:px-8 max-w-[1160px] relative left-1/2 translate-x-[-50%]">
             <div className={` ${HEADER_H2}`}>Footer</div>

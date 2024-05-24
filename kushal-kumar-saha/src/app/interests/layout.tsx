@@ -1,6 +1,6 @@
 'use server'
 
-import { ChildrenType } from "@/utils/types/types"
+import { ChildrenType } from "@/defaults/types/reactTypes"
 
 export default async function InterestsRootLayout({ children }:{ children: ChildrenType }) {
 

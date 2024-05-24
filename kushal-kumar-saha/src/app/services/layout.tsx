@@ -1,6 +1,6 @@
 'use server'
+import { ChildrenType } from "@/defaults/types/reactTypes"
 
-import { ChildrenType } from "@/utils/types/types"
 
 export default async function ServiceRootLayout({ children }:{ children: ChildrenType }) {
 

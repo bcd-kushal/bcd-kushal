@@ -1,6 +1,4 @@
 'use server'
-import { HEADER_H1 } from "@/utils/decorators/headers"
-import { textGradientInit, textGradientShade } from "@/utils/decorators/textGradients"
 import { GalaxyStarsDarkSvg } from "@/utils/svgs/svg"
 import { ChildrenType } from "@/defaults/types/reactTypes"
 import { GithubLink, InstaLink, LinkedinLink, TagGalaxy, YoutubeLink } from "@/components/utilities/serverSideUtilities"
@@ -8,6 +6,7 @@ import { BlogMainHeroBG } from "@/utils/decorators/uiDesigns"
 import { ChevronRightIcon, XIcon } from "lucide-react"
 import { GoofyLines } from "@/defaults/constants/goofyLines"
 import { getRandomDigit } from "@/utils/getRandomDigit"
+import PageTitle from "@/utils/decorators/PageMainTitle"
 
 
 export async function SigninHeroStructure({ children }: { children: ChildrenType }) {
@@ -31,7 +30,7 @@ export async function SigninHeroStructure({ children }: { children: ChildrenType
                 <div className="main-container max-w-[1160px] px-4 md:px-8 gap-4 md:gap-7 left-1/2 translate-x-[-50%] relative grid row-start-1 col-start-1 blogs-main">
                     <header className="flex flex-col items-stretch justify-start mt-[85px] md:mt-[92px]">
                         {/* <div className="text-xs mb-[-16px] pl-1">You&apos;ve landed to</div> */}
-                        <div className={`my-6 pb-[10.4px] ${textGradientInit} ${HEADER_H1} ${textGradientShade}`}>Sign in</div>
+                        <PageTitle title="Sign in" />
                         <div className="flex flex-col gap-1 -mt-2 items-start justify-start *:flex *:items-center *:justify-start *:gap-1 *:text-sm">
                             <span className="text-[#cacaca]"><ChevronRightIcon height={12} width={12} stroke="#cacaca"/> Access to premium</span>
                             <span className="text-[#cacaca]"><ChevronRightIcon height={12} width={12} stroke="#cacaca"/> Like, comment & bookmark blogs</span>

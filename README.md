@@ -40,14 +40,14 @@
     <td>👩‍🎓 edtech: Ed.Line</td>
     <td>https://edline.kushalkumarsaha.com/<br>https://edteach.kushalkumarsaha.com/</td>
     <td>
-      <!-- django -->    <img style="height:26px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" /> &nbsp;
-      <!-- js -->        <img style="height:23px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
-      <!-- sass -->      <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
-      <!-- nginx -->     <img style="height:28px" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png"/> &nbsp;
-      <!-- redis -->     <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-      <!-- sqlite -->    <img style="height:24px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"/> &nbsp;
-      <!-- mongo -->     <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
-      <!-- docker -->    <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+      <!-- django -->    <img style="height:26px" title="django" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" /> &nbsp;
+      <!-- js -->        <img style="height:23px" title="javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/> &nbsp;
+      <!-- sass -->      <img style="height:24px" title="SCSS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
+      <!-- nginx -->     <img style="height:28px" title="NGINX" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png"/> &nbsp;
+      <!-- redis -->     <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
+      <!-- sqlite -->    <img style="height:24px" title="sqlite" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"/> &nbsp;
+      <!-- mongo -->     <img style="height:25px" title="mongo" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
+      <!-- docker -->    <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
 

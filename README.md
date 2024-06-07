@@ -109,7 +109,7 @@
       <!-- ts -->          <img style="height:26px" title="typescript"  src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
       <!-- shadcn/ui -->   <img style="height:24px" title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"/> &nbsp;
       <!-- tailwind -->    <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-      <!-- firebase -->    <img style="height:25px" src="https://github.com/bcd-kushal/bcd-kushal/assets/96081625/bdc51c5e-1866-4865-b638-39bcf273494d"/> &nbsp;
+      <!-- firebase -->    <img style="height:25px" title="firebase" src="https://github.com/bcd-kushal/bcd-kushal/assets/96081625/bdc51c5e-1866-4865-b638-39bcf273494d"/> &nbsp;
       <!-- redis -->       <img style="height:24px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
       <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
       <!-- vercel -->      <img style="height:24px" title="vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"/> &nbsp;

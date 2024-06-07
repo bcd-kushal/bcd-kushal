@@ -68,7 +68,7 @@
     <td>👨‍👦‍👦 CRM: Revelate</td>
     <td>https://revelate.kushalkumarsaha.com/</td>
     <td>
-      <!-- gatsby -->      <img style="height:24px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/2bd495ca-29d8-4415-8e8c-a1979721816a"/> &nbsp;
+      <!-- gatsby -->      <img style="height:24px" title="gatsby" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/2bd495ca-29d8-4415-8e8c-a1979721816a"/> &nbsp;
       <!-- ts -->          <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
       <!-- mui -->         <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"/> &nbsp;
       <!-- redis -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;

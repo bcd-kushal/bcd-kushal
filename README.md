@@ -88,7 +88,7 @@
       <!-- shadcn/ui -->   <img style="height:24px" title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"/> &nbsp;
       <!-- mui -->         <img style="height:24px" title="materialUI" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"/> &nbsp;
       <!-- prisma -->      <img style="height:23px" title="prisma" src="https://imgur.com/kw09l6d.png"/> &nbsp;
-      <!-- redis -->       <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
+      <!-- redis -->       <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
       <!-- mongo -->       <img style="height:25px;" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
       <!-- supabase -->    <img style="height:23px" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp; 
     </td>

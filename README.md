@@ -73,8 +73,8 @@
       <!-- mui -->         <img style="height:24px" title="materialUI" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"/> &nbsp;
       <!-- redis -->       <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
       <!-- graphql -->     <img style="height:24px" title="graphQL" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"/> &nbsp;
-      <!-- cassandra -->   <img style="height:24px" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"/> &nbsp;
-      <!-- docker -->      <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+      <!-- cassandra -->   <img style="height:24px" title="cassandra" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"/> &nbsp;
+      <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
 

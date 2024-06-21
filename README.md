@@ -1,7 +1,7 @@
 <img src="https://imgur.com/VYDC77Z.png"/>
 <table>
   <tr>
-    <td>🌐 Main website + Blogs</td> 
+    <td>🌐 Main website + Blogs</td>
     <td>https://kushalkumarsaha.com/</td>
     <td> 
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;

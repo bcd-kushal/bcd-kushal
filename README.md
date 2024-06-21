@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>🌐 Main website + Blogs</td>
-    <td>https://kushalkumarsaha.com/</td> 
+    <td>https://kushalkumarsaha.com/</td>  
     <td> 
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- ts -->          <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;

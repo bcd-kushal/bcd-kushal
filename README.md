@@ -65,20 +65,6 @@
   </tr>
 
   <tr>
-    <td>👨‍👦‍👦 CRM: Revelate</td>
-    <td>https://revelate.kushalkumarsaha.com/</td>
-    <td>
-      <!-- gatsby -->      <img style="height:24px" title="gatsby" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/2bd495ca-29d8-4415-8e8c-a1979721816a"/> &nbsp;
-      <!-- ts -->          <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- mui -->         <img style="height:24px" title="materialUI" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"/> &nbsp;
-      <!-- redis -->       <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-      <!-- graphql -->     <img style="height:24px" title="graphQL" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"/> &nbsp;
-      <!-- cassandra -->   <img style="height:24px" title="cassandra" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"/> &nbsp;
-      <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-    </td>
-  </tr>
-
-  <tr>
     <td>🛒 ecomm: ShopSphere</td>
     <td>https://shopsphere.kushalkumarsaha.com/</td>
     <td>
@@ -91,13 +77,6 @@
       <!-- redis -->       <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
       <!-- mongo -->       <img style="height:25px" title="mongoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
       <!-- supabase -->    <img style="height:23px" title="supabase" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp; 
-    </td>
-  </tr>
-  
-  <tr>
-    <td>🐶 mapifind</td>
-    <td>https://mapifind.kushalkumarsaha.com/</td>
-    <td>
     </td>
   </tr>
 
@@ -117,7 +96,7 @@
   </tr>
 
   <tr>
-    <td>🚦 user traffic</td>
+    <td>🚦 web traffic</td>
     <td>https://stats.kushalkumarsaha.com/</td>
     <td>
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;

@@ -108,6 +108,8 @@
   </tr>
 </table>
 
+## Checkout all projects [here](https://kushalkumarsaha.com/projects/tree) ✨
+
 <hr>
 
 ### `pip` packages & API-endpoints
@@ -160,7 +162,3 @@
   </tr>
 
 </table>
-
-</table> 
-
-## See my full projects list [here](https://kushalkumarsaha.com/projects/tree) ✨

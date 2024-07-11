@@ -107,7 +107,7 @@
   </tr>
 </table>
 
-### 👉 Checkout all projects [here](https://kushalkumarsaha.com/projects/tree) ✨
+### 👉 Checkout all projects [HERE](https://kushalkumarsaha.com/projects/tree)
 
 <hr>
 

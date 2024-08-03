@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td>👩‍🎓 edtech: Ed.Line</td>
+    <td>👩‍🎓 Edtech: Ed.Line</td>
     <td>https://edline.kushalkumarsaha.com/<br>https://edteach.kushalkumarsaha.com/</td>
     <td>
       <!-- django -->    <img style="height:26px" title="django" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" /> &nbsp;
@@ -49,9 +49,10 @@
   </tr>
 
  <tr>
-    <td>🎛️ CMS: UpScale</td>
-    <td>https://upscale.kushalkumarsaha.com/</td>
+    <td>🎈 Ecomm: Balloondekor</td>
+    <td>https://balloondekor.com/</td>
     <td>
+      
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- ts -->          <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
       <!-- shadcn/ui -->   <img style="height:24px" title="shadcn/ui" title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"/> &nbsp;
@@ -62,8 +63,8 @@
   </tr>
 
   <tr>
-    <td>🛒 ecomm: ShopSphere</td>
-    <td>https://shopsphere.kushalkumarsaha.com/</td>
+    <td>🎁 Ecomm: Giftlaya</td>
+    <td>https://giftlaya.com/</td>
     <td>
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- ts -->          <img style="height:24px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
@@ -93,7 +94,7 @@
   </tr>
 
   <tr>
-    <td>🚦 web traffic</td>
+    <td>🚦 Web traffic: Webstats</td>
     <td>https://stats.kushalkumarsaha.com/</td>
     <td>
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;

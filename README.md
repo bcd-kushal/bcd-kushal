@@ -6,10 +6,10 @@
     <td> 
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- ts -->          <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- sass -->         <img style="height:24px" title="SCSS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
+      <!-- sass -->        <img style="height:24px" title="SCSS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
       <!-- drizzle -->     <img style="height:24px" title="drizzle" src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4"/> &nbsp;
       <!-- mongo -->       <img style="height:25px" title="monogoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
-      <!-- docker -->       <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+      <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
  
@@ -20,7 +20,6 @@
       <!-- astro -->        <img style="height:25px" title="astro" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
       <!-- ts -->           <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
       <!-- tailwind -->     <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-      <!-- gsap -->         <img style="height:24px" title="GSAP" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"/> &nbsp;
       <!-- node -->         <img style="height:24px" title="nodeJS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp;
       <!-- express -->      <img style="height:25px" title="express" src="https://i.imgur.com/fZXQgWk.png" title="source: imgur.com" /> &nbsp;
       <!-- supabase -->     <img style="height:24px" title="supabase" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;

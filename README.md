@@ -76,6 +76,7 @@
       <!-- mongoose -->    <img style="height:24px" title="mongoose" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/d0ac9ce9-fa48-4415-a0b6-8e7520116d38"/> &nbsp;
       <!-- mongo -->       <img style="height:25px" title="mongo" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
       <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
+      <!-- figma -->       <img style="height:24px" title="figma" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/> &nbsp;
     </td>
   </tr>
 </table>

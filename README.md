@@ -78,33 +78,6 @@
       <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
     </td>
   </tr>
-
-  <tr>
-    <td>🔗 minify</td>
-    <td>https://minify.kushalkumarsaha.com/</td>
-    <td>
-      <!-- next -->        <img style="height:23px" title="nextjs" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
-      <!-- ts -->          <img style="height:26px" title="typescript"  src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- shadcn/ui -->   <img style="height:24px" title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"/> &nbsp;
-      <!-- tailwind -->    <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-      <!-- firebase -->    <img style="height:25px" title="firebase" src="https://github.com/bcd-kushal/bcd-kushal/assets/96081625/bdc51c5e-1866-4865-b638-39bcf273494d"/> &nbsp;
-      <!-- redis -->       <img style="height:24px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-      <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-      <!-- vercel -->      <img style="height:24px" title="vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"/> &nbsp;
-    </td>
-  </tr>
-
-  <tr>
-    <td>🚦 Web traffic: Webstats</td>
-    <td>https://stats.kushalkumarsaha.com/</td>
-    <td>
-      <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
-      <!-- ts -->          <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- tailwind -->    <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-      <!-- supabase -->    <img style="height:24px" title="supabase" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
-      <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-    </td>
-  </tr>
 </table>
 
 ### 👉 Checkout all projects [HERE](https://portfolio.kushalkumarsaha.com/work)
@@ -139,14 +112,6 @@
   <tr>
     <td>📦 Pipme</td>
     <td>https://pypi.org/project/pipme <br> pip install pipme</td>
-    <td>
-      <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
-    </td>
-  </tr>
-
-  <tr>
-    <td>:octocat: Gittify</td>
-    <td>https://pypi.org/project/gittify <br> pip install gittify</td>
     <td>
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
     </td>

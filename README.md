@@ -58,7 +58,7 @@
       <!-- shadcn/ui -->   <img style="height:24px" title="shadcn/ui" title="shadcn/ui" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"/> &nbsp;
       <!-- tailwind -->    <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
       <!-- mongoose -->    <img style="height:24px" title="mongoose" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/d0ac9ce9-fa48-4415-a0b6-8e7520116d38"/> &nbsp;
-      <!-- aws -->        <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
+      <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
     </td>
   </tr>
 

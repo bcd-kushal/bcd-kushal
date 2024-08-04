@@ -1,19 +1,7 @@
 <img src="https://imgur.com/VYDC77Z.png"/>
-<table>
- <tr>
-    <td>👨‍💼 Personal Website</td>
-    <td>https://www.kushalkumarsaha.com/</td>
-    <td>
-      <!-- astro -->        <img style="height:25px" title="astro" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp;
-      <!-- ts -->           <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- tailwind -->     <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-      <!-- node -->         <img style="height:24px" title="nodeJS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp;
-      <!-- express -->      <img style="height:25px" title="express" src="https://i.imgur.com/fZXQgWk.png" title="source: imgur.com" /> &nbsp;
-      <!-- supabase -->     <img style="height:24px" title="supabase" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
-    </td>
-  </tr>
 
-</table>
+### https://www.kushalkumarsaha.com 
+<img style="height:25px" title="astro" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp; <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp; <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp; <img style="height:24px" title="nodeJS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp; <img style="height:25px" title="express" src="https://i.imgur.com/fZXQgWk.png" title="source: imgur.com" /> &nbsp; <img style="height:24px" title="supabase" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp; 
 
 <hr>
 

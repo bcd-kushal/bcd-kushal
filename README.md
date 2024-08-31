@@ -91,7 +91,7 @@
 
   <tr>
     <td>🕸️ iconZ</td>
-    <td>https://iconz.kushalkumarsaha.com/</td>
+    <td>https://iconz.kushalkumarsaha.com/</td> 
     <td>
       <!-- node -->          <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp;
       <!-- ts -->            <img style="height:26px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;

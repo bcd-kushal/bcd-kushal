@@ -74,7 +74,7 @@
  
 ### 👉 Checkout all projects [HERE](https://portfolio.kushalkumarsaha.com/work)
 
-<hr>
+<hr> 
 
 ### `pip` packages & API-endpoints
 

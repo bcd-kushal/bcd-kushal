@@ -1,9 +1,14 @@
 <img src="https://imgur.com/VYDC77Z.png"/>
 
 ### https://www.kushalkumarsaha.com
-<img style="height:25px" title="astro" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /> &nbsp; <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp; <img style="height:24px" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp; <img style="height:24px" title="nodeJS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/3e08afee-1aeb-4f78-ae89-f883f31b4731"/> &nbsp; <img style="height:25px" title="express" src="https://i.imgur.com/fZXQgWk.png" title="source: imgur.com" /> &nbsp; <img style="height:24px" title="supabase" src="https://i.imgur.com/h56M3eS.png" title="source: imgur.com" /> &nbsp;
-<img style="height:27px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp; 
- 
+<img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
+<img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
+<img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
+<img style="height:25px" title="nest.js" src="https://github.com/user-attachments/assets/ef8d2b7d-1ff3-4116-acc7-1a550e6b55c2"/> &nbsp;
+<img style="height:25px" title="prisma" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png"/> &nbsp;
+<img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
+<img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+
 <hr>
 
 ### Featured projects

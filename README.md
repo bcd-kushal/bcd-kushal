@@ -1,7 +1,7 @@
 <img src="https://imgur.com/Q3VeKcQ.png"/>
 
 ### https://www.kushalkumarsaha.com
-<img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
+<img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp; 
 <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
 <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
 <img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp;

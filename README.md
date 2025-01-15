@@ -108,19 +108,14 @@
     <td>
     </td>
   </tr>
-  
-  <tr>
-    <td>🗺️ GeoVerify</td>
-    <td>https://geoverify.kushalkumarsaha.com/</td>
-    <td rowspan="3">
-      <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
-      <!-- flask -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/20a11017-9e2b-45f2-ae6e-d8d38e0058b0"/> &nbsp;
-    </td>
-  </tr>
-  
+ 
   <tr>
     <td>📦 Pipme</td>
     <td>https://pypi.org/project/pipme</td>
+   <td rowspan="2">
+      <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
+      <!-- flask -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/20a11017-9e2b-45f2-ae6e-d8d38e0058b0"/> &nbsp;
+    </td>
   </tr>
 
   <tr>

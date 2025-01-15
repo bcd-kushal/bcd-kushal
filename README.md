@@ -98,9 +98,17 @@
 
 <hr> 
 
-### `pip` packages & API-endpoints
+### Packages & APIs
 
 <table>
+ 
+  <tr>
+    <td>©️ Personal API</td>
+    <td>https://api.kushalkumarsaha.com/</td> 
+    <td>
+    </td>
+  </tr>
+  
   <tr>
     <td>🗺️ GeoVerify</td>
     <td>https://geoverify.kushalkumarsaha.com/</td>
@@ -118,16 +126,6 @@
   <tr>
     <td>🐟 Beautifish</td>
     <td>https://pypi.org/project/beautifish</td>
-  </tr>
-
-  <tr>
-    <td>🕸️ UTSX</td>
-    <td>https://utsx.kushalkumarsaha.com/</td> 
-    <td>
-      <!-- astro -->       <img style="height:23px" title="nextJS" src="https://github.com/user-attachments/assets/6a273910-b4c2-4f7f-beb7-bf33c681e476"/> &nbsp;
-      <!-- ts -->          <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-      <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
-    </td>
   </tr>
 
 </table>

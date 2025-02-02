@@ -41,7 +41,7 @@
       <!-- potgres -->     <img style="height:25px" title="posgtres" src="https://github.com/user-attachments/assets/55a1b162-d14d-47d3-bde6-c9a8fb9e40bb"/> &nbsp;
       <!-- redis -->       <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
       <!-- graphql -->     <img style="height:25px" title="graphql" src="https://github.com/user-attachments/assets/96522d4f-017c-488e-9e9b-81b81db3350f"/> &nbsp;
-      <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
+      <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp; 
       <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>

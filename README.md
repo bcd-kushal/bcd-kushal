@@ -12,7 +12,7 @@
 
 <hr> 
  
-### Featured client projects 
+### Featured industry projects 
 
 <table>
  <tr>

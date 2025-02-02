@@ -37,7 +37,7 @@
         <!-- next -->        <img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- ts -->          <img style="height:24px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
       <!-- scss -->        <img style="height:24px" title="SCSS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
-      <!-- golang -->      <img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp;
+      <!-- golang -->      <img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp; 
       <!-- potgres -->     <img style="height:25px" title="posgtres" src="https://github.com/user-attachments/assets/55a1b162-d14d-47d3-bde6-c9a8fb9e40bb"/> &nbsp;
       <!-- redis -->       <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
       <!-- graphql -->     <img style="height:25px" title="graphql" src="https://github.com/user-attachments/assets/96522d4f-017c-488e-9e9b-81b81db3350f"/> &nbsp;

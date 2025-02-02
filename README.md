@@ -25,7 +25,7 @@
       <!-- scss -->        <img style="height:24px" title="SCSS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
       <!-- tailwind -->    <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;      
       <!-- mongoose -->    <img style="height:24px" title="mongoose" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/d0ac9ce9-fa48-4415-a0b6-8e7520116d38"/> &nbsp;
-      <!-- mongo -->       <img style="height:25px" title="mongo" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp;
+      <!-- mongo -->       <img style="height:25px" title="mongo" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/> &nbsp; 
       <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
     </td>
   </tr> 

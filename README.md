@@ -56,7 +56,6 @@
     <td>https://skillshetra.com</td>
     <td>
       <!-- react -->       <img style="height:22px" title="react" src="https://github.com/user-attachments/assets/c4e9525e-6a1b-462a-8a97-370f4d5dfcad"/> &nbsp;
-      <!-- ts -->          <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
       <!-- scss -->        <img style="height:24px" title="SCSS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
       <!-- workflows -->   <img style="height:24px" title="github actions" src="https://github.com/user-attachments/assets/913c617d-314d-4687-9347-901b7b730717"/> &nbsp;
       <!-- golang -->      <img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp; 

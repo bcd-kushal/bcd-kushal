@@ -4,7 +4,7 @@
 <img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
 <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
 <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-<img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp;
+<img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp; 
 <img style="height:24px" title="mysql" src="https://github.com/user-attachments/assets/ccc57ad3-5beb-480f-b5d8-dddfa3037da3"/> &nbsp;
 <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
 <img style="height:24px" title="github actions" src="https://github.com/user-attachments/assets/913c617d-314d-4687-9347-901b7b730717"/> &nbsp;

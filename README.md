@@ -14,12 +14,12 @@
 
 <hr> 
  
-### Featured industry projects 
+### Featured projects
 
 <table>
  <tr>
     <td>🎈 Ecomm: Balloondekor</td>
-    <td>https://balloondekor.com</td>
+    <td><a href="https://balloondekor.com" target="_blank">Website</a></td>
     <td>
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp; 
       <!-- tailwind -->    <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;  
@@ -38,7 +38,7 @@
 
  <tr>
     <td>🎁 Ecomm: Giftlaya</td>
-    <td>https://giftlaya.com</td>
+    <td><a href="https://giftlaya.com" target="_blank">Website</a></td>
     <td>
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- tailwind -->    <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;      
@@ -51,26 +51,10 @@
       <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
     </td>
   </tr> 
-
-  <tr>
-    <td>👩‍🎓 Edtech: Skillshetra</td>
-    <td>https://skillshetra.com</td>
-    <td>
-      <!-- react -->       <img style="height:22px" title="react" src="https://github.com/user-attachments/assets/c4e9525e-6a1b-462a-8a97-370f4d5dfcad"/> &nbsp;
-      <!-- scss -->        <img style="height:24px" title="SCSS" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/c95ea671-8b33-41c9-a269-adf4d172f9cf"/> &nbsp;
-      <!-- golang -->      <img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp; 
-      <!-- potgres -->     <img style="height:25px" title="posgtres" src="https://github.com/user-attachments/assets/55a1b162-d14d-47d3-bde6-c9a8fb9e40bb"/> &nbsp;
-      <!-- redis -->       <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-      <!-- ansible -->     <img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
-      <!-- nginx -->       <img style="height:25px" title="nginx" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png"/> &nbsp;
-      <!-- azure -->       <img style="height:24px" title="azure" src="https://github.com/user-attachments/assets/490440a1-1ae5-46b4-b82f-22c22598dff2"/> &nbsp; 
-      <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-    </td>
-  </tr>
   
   <tr>
     <td>🤝 Marketing: MantraMugdh</td>
-    <td>https://themantramugdh.com</td>
+    <td><a href="https://themantramugdh.com" target="_blank">Website</a></td>
     <td>
       <!-- astro -->       <img style="height:23px" title="astro" src="https://github.com/user-attachments/assets/1ce5872b-0365-44f9-b85a-55d425ea9ae2"/> &nbsp;
       <!-- tailwind -->    <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;   
@@ -90,20 +74,14 @@
 ### Packages & APIs
 
 <table>
- 
-  <tr>
-    <td>©️ Personal API</td>
-    <td>https://api.kushalkumarsaha.com/</td> 
-    <td>
-    </td>
-  </tr>
- 
   <tr>
     <td>📦 Pipme</td>
     <td>https://pypi.org/project/pipme</td>
    <td rowspan="2">
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
       <!-- flask -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/20a11017-9e2b-45f2-ae6e-d8d38e0058b0"/> &nbsp;
+      <!-- ansible -->       <img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
+      <!-- docker -->        <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
 

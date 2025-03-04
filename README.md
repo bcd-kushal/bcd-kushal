@@ -1,6 +1,6 @@
 <img src="https://imgur.com/Q3VeKcQ.png"/>
 
-### https://kushalkumarsaha.com
+### https://kushalkumarsaha.com <br/>
 <img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
 <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
 <img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
@@ -10,6 +10,18 @@
 <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
 <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
 <img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
+
+<table>
+ <tr>
+  <td>
+    I'm a tech-stack flexible Software Engineer<br/>at Webdenso with 1.5+ years of work experience.<br/><br/>I specialize in Backend and DevOps to<br/>build scalable and clean software architectures.
+  </td>
+  <td>
+   <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=bcd-kushal&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"/>
+  </td>
+ </tr>
+</table>
+
 
 <hr> 
  
@@ -64,29 +76,17 @@
       <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
-</table>
- 
-### 👉 Checkout all projects [HERE](https://www.kushalkumarsaha.com/projects)
 
-<hr> 
-
-### Packages & APIs
-
-<table>
-  <tr>
+   <tr>
     <td>📦 Pipme</td>
-    <td>https://pypi.org/project/pipme</td>
-   <td rowspan="2">
+    <td><a href="https://themantramugdh.com" target="_blank">Website</a></td>
+    <td>
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
       <!-- flask -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/20a11017-9e2b-45f2-ae6e-d8d38e0058b0"/> &nbsp;
       <!-- ansible -->       <img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
       <!-- docker -->        <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
     </td>
   </tr>
-
-  <tr>
-    <td>🐟 Beautifish</td>
-    <td>https://pypi.org/project/beautifish</td>
-  </tr>
-
 </table>
+ 
+### 👉 Checkout all projects [HERE](https://www.kushalkumarsaha.com/projects)

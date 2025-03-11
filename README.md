@@ -3,10 +3,11 @@
 ### https://kushalkumarsaha.com <br/>
 <img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
 <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-<img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
-<img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+<img style="height:23px" title="C++" title="tailwind" src="https://github.com/user-attachments/assets/0c8538c6-1908-41db-8a64-066d2df5b8ce"/> &nbsp;
 <img style="height:26px" title="kafka" src="https://github.com/user-attachments/assets/c571b5f3-5d47-4c5e-bf75-38b6fda16abe"/> &nbsp; 
 <img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
+<img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+<img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
 <img style="height:25px" title="nginx" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png"/> &nbsp;
 <img style="height:25px" title="posgtres" src="https://github.com/user-attachments/assets/55a1b162-d14d-47d3-bde6-c9a8fb9e40bb"/> &nbsp;
 <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
@@ -43,7 +44,6 @@
       <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
       <!-- terraform -->   <img style="height:23px" title="terraform" src="https://github.com/user-attachments/assets/4ed4888a-724e-42c0-8621-440a4f34f11f"/> &nbsp;
       <!-- workflows -->   <img style="height:24px" title="github actions" src="https://github.com/user-attachments/assets/913c617d-314d-4687-9347-901b7b730717"/> &nbsp;
-      <!-- nginx -->       <img style="height:25px" title="nginx" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png"/> &nbsp;
       <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
     </td>
   </tr> 
@@ -60,7 +60,6 @@
       <!-- redis -->       <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
       <!-- docker -->      <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
       <!-- terraform -->   <img style="height:23px" title="terraform" src="https://github.com/user-attachments/assets/4ed4888a-724e-42c0-8621-440a4f34f11f"/> &nbsp;
-      <!-- nginx -->       <img style="height:25px" title="nginx" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png"/> &nbsp;
       <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
     </td>
   </tr> 

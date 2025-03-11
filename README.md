@@ -15,7 +15,7 @@
  <tr>
   <td>
     I'm a tech-stack flexible Software Engineer<br/>at Webdenso with 1.5+ years of work experience.<br/><br/>
-   I specialize in Backend and DevOps to<br/>build scalable and clean software architectures.<br/><br/> 
+   I specialize in Backend and DevOps to<br/>build scalable and clean software architectures.<br/><br/>
    Currently learning: Kubernetes & Ansible
   </td>
   <td>

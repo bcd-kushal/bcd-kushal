@@ -17,7 +17,7 @@
   <td>
     I'm a tech-stack flexible Software Engineer<br/>at Webdenso with 1.5+ years of work experience.<br/><br/>
    I specialize in Backend and DevOps to<br/>build scalable and clean software architectures.<br/><br/> 
-   Currently learning: Kubernetes & Ansible
+   Currently learning: Kubernetes & Kafka
   </td>
   <td>
    <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=bcd-kushal&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"/>

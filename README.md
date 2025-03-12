@@ -3,7 +3,7 @@
 ### https://kushalkumarsaha.com <br/>
 <img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
 <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-<img style="height:23px" title="C++" title="tailwind" src="https://github.com/user-attachments/assets/0c8538c6-1908-41db-8a64-066d2df5b8ce"/> &nbsp;
+<img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp;
 <img style="height:26px" title="kafka" src="https://github.com/user-attachments/assets/c571b5f3-5d47-4c5e-bf75-38b6fda16abe"/> &nbsp; 
 <img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
 <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;

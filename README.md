@@ -9,7 +9,7 @@
 <img style="height:25px" title="posgtres" src="https://github.com/user-attachments/assets/55a1b162-d14d-47d3-bde6-c9a8fb9e40bb"/> &nbsp;
 <img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
 
-<table>
+<table> 
  <tr>
   <td>
     I'm a tech-stack flexible Software Engineer<br/>at Webdenso with 1.5+ years of work experience.<br/><br/>

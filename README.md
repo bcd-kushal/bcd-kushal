@@ -12,9 +12,9 @@
 <table>
  <tr>
   <td>
-    I'm a tech-stack flexible Software Engineer<br/>at Webdenso with 1.5+ years of work experience.<br/><br/>
-   I specialize in Backend and DevOps to<br/>build scalable and clean software architectures.<br/><br/> 
-   Currently learning: Kubernetes & Kafka
+    I'm a tech-stack flexible Software Engineer with <br/>1.5+ years of work experience.<br/><br/>
+   I specialize in Backend and DevOps, building<br/>scalable and intuitive software architectures.<br/><br/> 
+   Currently learning: Kubernetes
   </td>
   <td>
    <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=bcd-kushal&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"/>
@@ -29,7 +29,7 @@
 
 <table>
  <tr>
-    <td>🎈 Ecomm: Balloondekor</td>
+    <td>🎈 E-commerce: Balloondekor</td>
     <td><a href="https://balloondekor.com" target="_blank">Website</a></td>
     <td>
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp; 
@@ -47,7 +47,7 @@
 
 
  <tr>
-    <td>🎁 Ecomm: Giftlaya</td>
+    <td>🎁 E-commerce: Giftlaya</td>
     <td><a href="https://giftlaya.com" target="_blank">Website</a></td>
     <td>
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
@@ -62,8 +62,8 @@
   </tr> 
   
   <tr>
-    <td>🤝 Marketing: MantraMugdh</td>
-    <td><a href="https://themantramugdh.com" target="_blank">Website</a></td>
+    <td>🤝 SysAdmin & Integration Bot: Bunchup</td>
+    <td><a href="https://themantramugdh.com" target="_blank">Invite</a></td>
     <td>
       <!-- astro -->       <img style="height:23px" title="astro" src="https://github.com/user-attachments/assets/1ce5872b-0365-44f9-b85a-55d425ea9ae2"/> &nbsp;
       <!-- tailwind -->    <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;   
@@ -76,7 +76,7 @@
   </tr>
 
    <tr>
-    <td>📦 Pipme</td>
+    <td>📦 Bundler Automation: Pipme</td>
     <td><a href="https://themantramugdh.com" target="_blank">Website</a></td>
     <td>
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;

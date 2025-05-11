@@ -62,8 +62,8 @@
   </tr> 
   
   <tr>
-    <td>🤝 SysAdmin & Integration Bot: Bunchup</td>
-    <td><a href="https://themantramugdh.com" target="_blank">Invite</a></td>
+    <td>:dependabot: SysAdmin & Integration Bot: Bunchup</td>
+    <td><a href="https://themantramugdh.com" target="_blank">Server Invite</a></td>
     <td>
       <!-- astro -->       <img style="height:23px" title="astro" src="https://github.com/user-attachments/assets/1ce5872b-0365-44f9-b85a-55d425ea9ae2"/> &nbsp;
       <!-- tailwind -->    <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;   
@@ -77,7 +77,7 @@
 
    <tr>
     <td>📦 Bundler Automation: Pipme</td>
-    <td><a href="https://themantramugdh.com" target="_blank">Website</a></td>
+    <td><a href="pypi.org/project/pipme" target="_blank">Install Link</a></td>
     <td>
       <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
       <!-- flask -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/20a11017-9e2b-45f2-ae6e-d8d38e0058b0"/> &nbsp;

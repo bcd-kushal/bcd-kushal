@@ -13,7 +13,6 @@
  </tr>
 </table>
 
-
 <hr> 
  
 ### Featured projects

@@ -3,7 +3,7 @@
 <table>
  <tr>
   <td>
-    I'm Kushal, a tech-stack flexible Software Engineer <br/>having 1.5+ years of work experience.<br/><br/>
+    I'm Kushal, a tech-stack flexible Software Engineer <br/>having 1.5+ years of work experience.<br/><br/> n
    I specialize in Backend and DevOps, building<br/>scalable and intuitive software architectures.<br/><br/>
    Currently learning: Kubernetes
   </td>

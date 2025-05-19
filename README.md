@@ -8,7 +8,7 @@
    Currently learning: Kubernetes
   </td>
   <td>
-   <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=bcd-kushal&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"/>
+   <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=sde-kushal&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"/>
   </td>
  </tr>
 </table>

@@ -1,4 +1,4 @@
-### 🌐 Portfolio:  https://kushalkumarsaha.com 
+### 🌐 Portfolio:  https://kushalkumarsaha.com
 
 <table>
  <tr>

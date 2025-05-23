@@ -50,7 +50,7 @@
   </tr> 
   
   <tr>
-    <td>:dependabot: SysAdmin & Integration Bot: Bunchup</td>
+    <td>:dependabot: BPA Bot: Bunchup</td>
     <td><a href="https://discord.gg/ZfKxp2JR" target="_blank">Server Invite</a></td>
     <td>
       <!-- discordjs -->   <img style="height:25px" title="discordjs" src="https://github.com/user-attachments/assets/197a6f47-2d60-4f71-a0fe-2ee59e8dbb62"/> &nbsp;
@@ -69,10 +69,9 @@
     <td>📦 Bundler Automation: Pipme</td>
     <td><a href="pypi.org/project/pipme" target="_blank">Install Link</a></td>
     <td>
-      <!-- python -->        <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
-      <!-- flask -->         <img style="height:24px" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/20a11017-9e2b-45f2-ae6e-d8d38e0058b0"/> &nbsp;
-      <!-- bash -->          <img style="height:24px" src="https://github.com/user-attachments/assets/e36c2e31-8d28-44ce-b836-6197a103de0b"/> &nbsp;
+      <!-- python -->        <img style="height:24px" title="python" src="https://github.com/bcd-kushal/Kushal-Kumar/assets/96081625/47879a68-68eb-4289-b2fa-858cccfe482e"/> &nbsp;
       <!-- docker -->        <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
+      <!-- ansible -->       <img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
     </td>
   </tr>
 </table>

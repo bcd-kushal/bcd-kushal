@@ -1,6 +1,6 @@
 ### 🌐 Portfolio:  https://kushalkumarsaha.com
 
-<table>
+<table> 
  <tr>
   <td>
     I'm Kushal, a tech-stack flexible Software Engineer <br/>having 1.5+ years of work experience.<br/><br/> 

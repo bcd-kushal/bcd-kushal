@@ -39,7 +39,6 @@
     <td>
       <!-- next -->        <img style="height:23px" title="nextJS" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
       <!-- tailwind -->    <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;      
-      <!-- redux -->       <img style="height:23px" title="redux" src="https://github.com/user-attachments/assets/f24de50c-7670-4af1-9aa9-d9463810b4b7"/> &nbsp;
       <!-- nest -->        <img style="height:24px" title="nest.js" src="https://github.com/user-attachments/assets/ef8d2b7d-1ff3-4116-acc7-1a550e6b55c2"/> &nbsp;
       <!-- mongoose -->    <img style="height:24px" title="mongoose" src="https://github.com/user-attachments/assets/ac121567-036f-4a48-b225-9b44d7f9c534"/> &nbsp;
       <!-- mongodb -->     <img style="height:24px" title="mongodb" src="https://github.com/user-attachments/assets/939b4c55-67be-4c83-b39e-f91e6aca81d2"/> &nbsp;

@@ -58,7 +58,6 @@
       <!-- prisma -->      <img style="height:24px" title="prisma" src="https://i.imgur.com/1vvMXsz.png"/> &nbsp;
       <!-- postgres -->    <img style="height:24px" title="posgtres" src="https://github.com/user-attachments/assets/55a1b162-d14d-47d3-bde6-c9a8fb9e40bb"/> &nbsp;
       <!-- docker -->      <img style="height:24px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-      <!-- workflows -->   <img style="height:24px" title="github actions" src="https://github.com/user-attachments/assets/913c617d-314d-4687-9347-901b7b730717"/> &nbsp;
       <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
     </td>
   </tr> 

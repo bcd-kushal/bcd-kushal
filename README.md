@@ -14,7 +14,7 @@
 </table>
 
 <hr>
- 
+
 ### Featured projects
 
 <table>

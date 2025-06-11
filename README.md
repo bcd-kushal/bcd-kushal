@@ -53,7 +53,7 @@
       <!-- terraform -->   <img style="height:23px" title="terraform" src="https://github.com/user-attachments/assets/4ed4888a-724e-42c0-8621-440a4f34f11f"/> &nbsp;
       <!-- aws -->         <img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
     </td>
-  </tr> 
+  </tr>
   
  <tr>
     <td>🎈 E-commerce: Balloondekor</td>

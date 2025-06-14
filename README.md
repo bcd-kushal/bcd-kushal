@@ -7,7 +7,7 @@
 <img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
 <img style="height:24px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
 
-<table>
+<table> 
  <tr>
   <td>
     I'm Kushal, a tech-stack flexible Software Engineer <br/>having 1.5+ years of work experience.<br/><br/>
